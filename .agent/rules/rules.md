@@ -1,4 +1,8 @@
 ---
+trigger: manual
+---
+
+---
 description: coding_rule 
 ---
 

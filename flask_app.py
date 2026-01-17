@@ -1,17 +1,5 @@
-# Dividend System Blueprint - Backend Step 4
-# Flask API 엔드포인트
-
-## 개요
-이 문서는 배당 시스템의 Flask API 엔드포인트를 구현합니다.
-
----
-
-## 1. flask_app.py (배당 관련 라우트)
-
-`flask_app.py`에 다음 라우트를 추가:
-
-```python
 from flask import Flask, render_template, jsonify, request
+import os
 
 app = Flask(__name__)
 
@@ -194,72 +182,3 @@ def run_dividend_backtest():
 if __name__ == '__main__':
     print('🚀 Flask Server Starting on port 5001...')
     app.run(port=5001, debug=True, use_reloader=False)
-```
-
----
-
-## 2. API 엔드포인트 요약
-
-| Endpoint | Method | 설명 |
-|----------|--------|------|
-| `/` | GET | 랜딩 페이지 |
-| `/app` | GET | 대시보드 |
-| `/dividend` | GET | 배당 UI 페이지 |
-| `/api/dividend/themes` | GET | 테마 목록 |
-| `/api/dividend/all-tiers` | POST | 3개 티어 포트폴리오 생성 |
-| `/api/dividend/risk-metrics/<ticker>` | GET | 리스크 지표 |
-| `/api/dividend/sustainability/<ticker>` | GET | 배당 지속성 분석 |
-| `/api/dividend/optimize-advanced` | POST | 고급 최적화 |
-| `/api/dividend/backtest` | POST | 백테스트 |
-
----
-
-## 3. API 사용 예시
-
-### 포트폴리오 생성
-```bash
-curl -X POST http://localhost:5001/api/dividend/all-tiers \
-  -H "Content-Type: application/json" \
-  -d '{
-    "theme_id": "max_monthly_income",
-    "target_monthly_krw": 1000000,
-    "fx_rate": 1420,
-    "tax_rate": 15.4,
-    "optimize_mode": "risk_parity"
-  }'
-```
-
-### 리스크 지표 조회
-```bash
-curl http://localhost:5001/api/dividend/risk-metrics/SCHD
-```
-
-### 응답 예시
-```json
-{
-  "ticker": "SCHD",
-  "volatility_annual": 0.161,
-  "max_drawdown": -0.14,
-  "sharpe_ratio": 0.05,
-  "risk_grade": "B"
-}
-```
-
----
-
-## 4. 서버 실행
-
-```bash
-python flask_app.py
-```
-
-```
-🚀 Flask Server Starting on port 5001...
- * Running on http://127.0.0.1:5001
-```
-
----
-
-## 다음 단계
-
-**FRONTEND_STEP1.md**에서 랜딩 페이지(`index.html`)를 구현합니다.

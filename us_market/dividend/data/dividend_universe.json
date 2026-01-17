@@ -1,0 +1,7635 @@
+{
+  "SCHD": {
+    "ticker": "SCHD",
+    "name": "Schwab US Dividend Equity ETF",
+    "sector": "ETF",
+    "price": 29.03,
+    "yield": 0.036066138477437136,
+    "ttm_dividend": 1.0470000000000002,
+    "frequency": "Quarterly",
+    "last_div": 0.278,
+    "payments": [
+      {
+        "date": "2025-03-26",
+        "amount": 0.249
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 0.26
+      },
+      {
+        "date": "2025-09-24",
+        "amount": 0.26
+      },
+      {
+        "date": "2025-12-10",
+        "amount": 0.278
+      }
+    ],
+    "currency": "USD"
+  },
+  "VIG": {
+    "ticker": "VIG",
+    "name": "Vanguard Div Appreciation ETF",
+    "sector": "ETF",
+    "price": 225.14,
+    "yield": 0.01580350004441681,
+    "ttm_dividend": 3.558,
+    "frequency": "Quarterly",
+    "last_div": 0.884,
+    "payments": [
+      {
+        "date": "2025-03-27",
+        "amount": 0.938
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.871
+      },
+      {
+        "date": "2025-09-29",
+        "amount": 0.865
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.884
+      }
+    ],
+    "currency": "USD"
+  },
+  "DGRO": {
+    "ticker": "DGRO",
+    "name": "iShares Core Dividend Growth ET",
+    "sector": "ETF",
+    "price": 71.49,
+    "yield": 0.020296544971324663,
+    "ttm_dividend": 1.451,
+    "frequency": "Quarterly",
+    "last_div": 0.447,
+    "payments": [
+      {
+        "date": "2025-03-18",
+        "amount": 0.311
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.324
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 0.369
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 0.447
+      }
+    ],
+    "currency": "USD"
+  },
+  "VYM": {
+    "ticker": "VYM",
+    "name": "Vanguard High Dividend Yield ET",
+    "sector": "ETF",
+    "price": 148.71,
+    "yield": 0.023542465200726243,
+    "ttm_dividend": 3.501,
+    "frequency": "Quarterly",
+    "last_div": 0.947,
+    "payments": [
+      {
+        "date": "2025-03-21",
+        "amount": 0.85
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 0.862
+      },
+      {
+        "date": "2025-09-19",
+        "amount": 0.842
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.947
+      }
+    ],
+    "currency": "USD"
+  },
+  "HDV": {
+    "ticker": "HDV",
+    "name": "iShares Core High Dividend ETF",
+    "sector": "ETF",
+    "price": 126.92,
+    "yield": 0.030814686416640407,
+    "ttm_dividend": 3.9110000000000005,
+    "frequency": "Quarterly",
+    "last_div": 1.253,
+    "payments": [
+      {
+        "date": "2025-03-18",
+        "amount": 0.795
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.913
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 0.95
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 1.253
+      }
+    ],
+    "currency": "USD"
+  },
+  "DVY": {
+    "ticker": "DVY",
+    "name": "iShares Select Dividend ETF",
+    "sector": "ETF",
+    "price": 147.84,
+    "yield": 0.034794372294372294,
+    "ttm_dividend": 5.144,
+    "frequency": "Quarterly",
+    "last_div": 1.616,
+    "payments": [
+      {
+        "date": "2025-03-18",
+        "amount": 1.049
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 1.233
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 1.246
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 1.616
+      }
+    ],
+    "currency": "USD"
+  },
+  "SDY": {
+    "ticker": "SDY",
+    "name": "State Street SPDR S&P Dividend ",
+    "sector": "ETF",
+    "price": 146.66,
+    "yield": 0.024771580526387563,
+    "ttm_dividend": 3.633,
+    "frequency": "Quarterly",
+    "last_div": 1.017,
+    "payments": [
+      {
+        "date": "2025-03-24",
+        "amount": 0.818
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.927
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.871
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 1.017
+      }
+    ],
+    "currency": "USD"
+  },
+  "NOBL": {
+    "ticker": "NOBL",
+    "name": "ProShares S&P 500 Dividend Aris",
+    "sector": "ETF",
+    "price": 109.77,
+    "yield": 0.02026965473262276,
+    "ttm_dividend": 2.225,
+    "frequency": "Quarterly",
+    "last_div": 0.661,
+    "payments": [
+      {
+        "date": "2025-03-26",
+        "amount": 0.465
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 0.55
+      },
+      {
+        "date": "2025-09-24",
+        "amount": 0.549
+      },
+      {
+        "date": "2025-12-24",
+        "amount": 0.661
+      }
+    ],
+    "currency": "USD"
+  },
+  "SPYD": {
+    "ticker": "SPYD",
+    "name": "State Street SPDR Portfolio S&P",
+    "sector": "ETF",
+    "price": 45.1,
+    "yield": 0.04339246119733924,
+    "ttm_dividend": 1.9569999999999999,
+    "frequency": "Quarterly",
+    "last_div": 0.549,
+    "payments": [
+      {
+        "date": "2025-03-24",
+        "amount": 0.419
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.5
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.489
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.549
+      }
+    ],
+    "currency": "USD"
+  },
+  "FDVV": {
+    "ticker": "FDVV",
+    "name": "Fidelity High Dividend ETF",
+    "sector": "ETF",
+    "price": 57.49,
+    "yield": 0.0284571229779092,
+    "ttm_dividend": 1.636,
+    "frequency": "Quarterly",
+    "last_div": 0.393,
+    "payments": [
+      {
+        "date": "2025-03-21",
+        "amount": 0.419
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 0.447
+      },
+      {
+        "date": "2025-09-19",
+        "amount": 0.377
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.393
+      }
+    ],
+    "currency": "USD"
+  },
+  "RDVY": {
+    "ticker": "RDVY",
+    "name": "First Trust Rising Dividend Ach",
+    "sector": "ETF",
+    "price": 72.67,
+    "yield": 0.010650887573964497,
+    "ttm_dividend": 0.774,
+    "frequency": "Quarterly",
+    "last_div": 0.2,
+    "payments": [
+      {
+        "date": "2025-03-27",
+        "amount": 0.254
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 0.171
+      },
+      {
+        "date": "2025-09-25",
+        "amount": 0.149
+      },
+      {
+        "date": "2025-12-12",
+        "amount": 0.2
+      }
+    ],
+    "currency": "USD"
+  },
+  "DGRW": {
+    "ticker": "DGRW",
+    "name": "WisdomTree U.S. Quality Dividen",
+    "sector": "ETF",
+    "price": 91.13,
+    "yield": 0.014001975200263361,
+    "ttm_dividend": 1.276,
+    "frequency": "Monthly",
+    "last_div": 0.233,
+    "payments": [
+      {
+        "date": "2025-01-28",
+        "amount": 0.003
+      },
+      {
+        "date": "2025-02-25",
+        "amount": 0.11
+      },
+      {
+        "date": "2025-03-26",
+        "amount": 0.155
+      },
+      {
+        "date": "2025-04-25",
+        "amount": 0.09
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 0.065
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 0.175
+      },
+      {
+        "date": "2025-07-28",
+        "amount": 0.05
+      },
+      {
+        "date": "2025-08-26",
+        "amount": 0.085
+      },
+      {
+        "date": "2025-09-25",
+        "amount": 0.185
+      },
+      {
+        "date": "2025-10-28",
+        "amount": 0.035
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.09
+      },
+      {
+        "date": "2025-12-26",
+        "amount": 0.233
+      }
+    ],
+    "currency": "USD"
+  },
+  "CGDV": {
+    "ticker": "CGDV",
+    "name": "Capital Group Dividend Value ET",
+    "sector": "ETF",
+    "price": 44.46,
+    "yield": 0.012730544309491679,
+    "ttm_dividend": 0.5660000000000001,
+    "frequency": "Quarterly",
+    "last_div": 0.193,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 0.107
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.13
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.136
+      },
+      {
+        "date": "2025-12-26",
+        "amount": 0.193
+      }
+    ],
+    "currency": "USD"
+  },
+  "FDRR": {
+    "ticker": "FDRR",
+    "name": "Fidelity Dividend ETF for Risin",
+    "sector": "ETF",
+    "price": 61.57,
+    "yield": 0.021877537761897027,
+    "ttm_dividend": 1.347,
+    "frequency": "Quarterly",
+    "last_div": 0.329,
+    "payments": [
+      {
+        "date": "2025-03-21",
+        "amount": 0.299
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 0.401
+      },
+      {
+        "date": "2025-09-19",
+        "amount": 0.318
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.329
+      }
+    ],
+    "currency": "USD"
+  },
+  "LVHD": {
+    "ticker": "LVHD",
+    "name": "Franklin U.S. Low Volatility Hi",
+    "sector": "ETF",
+    "price": 41.295,
+    "yield": 0.03242523307906526,
+    "ttm_dividend": 1.339,
+    "frequency": "Quarterly",
+    "last_div": 0.354,
+    "payments": [
+      {
+        "date": "2025-02-06",
+        "amount": 0.065
+      },
+      {
+        "date": "2025-05-08",
+        "amount": 0.246
+      },
+      {
+        "date": "2025-08-07",
+        "amount": 0.33
+      },
+      {
+        "date": "2025-11-06",
+        "amount": 0.344
+      },
+      {
+        "date": "2025-12-30",
+        "amount": 0.354
+      }
+    ],
+    "currency": "USD"
+  },
+  "PEY": {
+    "ticker": "PEY",
+    "name": "Invesco High Yield Equity Divid",
+    "sector": "ETF",
+    "price": 21.61,
+    "yield": 0.04571957427117075,
+    "ttm_dividend": 0.9879999999999999,
+    "frequency": "Monthly",
+    "last_div": 0.082,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.084
+      },
+      {
+        "date": "2025-02-24",
+        "amount": 0.07
+      },
+      {
+        "date": "2025-03-24",
+        "amount": 0.07
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 0.075
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.085
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.086
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 0.088
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.081
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.088
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 0.095
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.084
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.082
+      }
+    ],
+    "currency": "USD"
+  },
+  "DON": {
+    "ticker": "DON",
+    "name": "WisdomTree U.S. MidCap Dividend",
+    "sector": "ETF",
+    "price": 54.29,
+    "yield": 0.02405599557929637,
+    "ttm_dividend": 1.306,
+    "frequency": "Monthly",
+    "last_div": 0.042,
+    "payments": [
+      {
+        "date": "2025-01-28",
+        "amount": 0.04
+      },
+      {
+        "date": "2025-02-25",
+        "amount": 0.035
+      },
+      {
+        "date": "2025-03-26",
+        "amount": 0.185
+      },
+      {
+        "date": "2025-04-25",
+        "amount": 0.09
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 0.065
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 0.175
+      },
+      {
+        "date": "2025-07-28",
+        "amount": 0.05
+      },
+      {
+        "date": "2025-08-26",
+        "amount": 0.1
+      },
+      {
+        "date": "2025-09-25",
+        "amount": 0.145
+      },
+      {
+        "date": "2025-10-28",
+        "amount": 0.065
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.08
+      },
+      {
+        "date": "2025-12-26",
+        "amount": 0.234
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.042
+      }
+    ],
+    "currency": "USD"
+  },
+  "DES": {
+    "ticker": "DES",
+    "name": "WisdomTree U.S. SmallCap Divide",
+    "sector": "ETF",
+    "price": 35.79,
+    "yield": 0.02665549036043588,
+    "ttm_dividend": 0.9540000000000001,
+    "frequency": "Monthly",
+    "last_div": 0.209,
+    "payments": [
+      {
+        "date": "2025-01-28",
+        "amount": 0.015
+      },
+      {
+        "date": "2025-02-25",
+        "amount": 0.01
+      },
+      {
+        "date": "2025-03-26",
+        "amount": 0.115
+      },
+      {
+        "date": "2025-04-25",
+        "amount": 0.085
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 0.025
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 0.145
+      },
+      {
+        "date": "2025-07-28",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-08-26",
+        "amount": 0.075
+      },
+      {
+        "date": "2025-09-25",
+        "amount": 0.13
+      },
+      {
+        "date": "2025-10-28",
+        "amount": 0.055
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-12-26",
+        "amount": 0.209
+      }
+    ],
+    "currency": "USD"
+  },
+  "SDOG": {
+    "ticker": "SDOG",
+    "name": "ALPS Sector Dividend Dogs ETF",
+    "sector": "ETF",
+    "price": 63.41,
+    "yield": 0.03505756189875414,
+    "ttm_dividend": 2.223,
+    "frequency": "Quarterly",
+    "last_div": 0.549,
+    "payments": [
+      {
+        "date": "2025-03-20",
+        "amount": 0.548
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 0.565
+      },
+      {
+        "date": "2025-09-18",
+        "amount": 0.561
+      },
+      {
+        "date": "2025-12-18",
+        "amount": 0.549
+      }
+    ],
+    "currency": "USD"
+  },
+  "VIGI": {
+    "ticker": "VIGI",
+    "name": "Vanguard International Dividend",
+    "sector": "ETF",
+    "price": 93.41,
+    "yield": 0.020982764158013062,
+    "ttm_dividend": 1.96,
+    "frequency": "Quarterly",
+    "last_div": 0.532,
+    "payments": [
+      {
+        "date": "2025-03-21",
+        "amount": 0.523
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 0.542
+      },
+      {
+        "date": "2025-09-19",
+        "amount": 0.363
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.532
+      }
+    ],
+    "currency": "USD"
+  },
+  "VYMI": {
+    "ticker": "VYMI",
+    "name": "Vanguard International High Div",
+    "sector": "ETF",
+    "price": 92.6,
+    "yield": 0.03579913606911448,
+    "ttm_dividend": 3.3150000000000004,
+    "frequency": "Quarterly",
+    "last_div": 0.939,
+    "payments": [
+      {
+        "date": "2025-03-21",
+        "amount": 0.6
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 1.076
+      },
+      {
+        "date": "2025-09-19",
+        "amount": 0.7
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.939
+      }
+    ],
+    "currency": "USD"
+  },
+  "IDV": {
+    "ticker": "IDV",
+    "name": "iShares International Select Di",
+    "sector": "ETF",
+    "price": 40.35,
+    "yield": 0.04830235439900868,
+    "ttm_dividend": 1.9490000000000003,
+    "frequency": "Quarterly",
+    "last_div": 0.592,
+    "payments": [
+      {
+        "date": "2025-03-18",
+        "amount": 0.188
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.787
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 0.382
+      },
+      {
+        "date": "2025-12-15",
+        "amount": 0.592
+      }
+    ],
+    "currency": "USD"
+  },
+  "DVYE": {
+    "ticker": "DVYE",
+    "name": "iShares Emerging Markets Divide",
+    "sector": "ETF",
+    "price": 32.75,
+    "yield": 0.055938931297709917,
+    "ttm_dividend": 1.8319999999999999,
+    "frequency": "Quarterly",
+    "last_div": 0.42,
+    "payments": [
+      {
+        "date": "2025-03-18",
+        "amount": 0.177
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.684
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 0.551
+      },
+      {
+        "date": "2025-12-15",
+        "amount": 0.42
+      }
+    ],
+    "currency": "USD"
+  },
+  "SCHY": {
+    "ticker": "SCHY",
+    "name": "Schwab International Dividend E",
+    "sector": "ETF",
+    "price": 30.21,
+    "yield": 0.03505461767626614,
+    "ttm_dividend": 1.059,
+    "frequency": "Quarterly",
+    "last_div": 0.32,
+    "payments": [
+      {
+        "date": "2025-03-26",
+        "amount": 0.14
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 0.349
+      },
+      {
+        "date": "2025-09-24",
+        "amount": 0.25
+      },
+      {
+        "date": "2025-12-11",
+        "amount": 0.32
+      }
+    ],
+    "currency": "USD"
+  },
+  "GCOW": {
+    "ticker": "GCOW",
+    "name": "Pacer Global Cash Cows Dividend",
+    "sector": "ETF",
+    "price": 42.43,
+    "yield": 0.03942964883337261,
+    "ttm_dividend": 1.6729999999999998,
+    "frequency": "Quarterly",
+    "last_div": 1.005,
+    "payments": [
+      {
+        "date": "2025-03-06",
+        "amount": 0.064
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 0.321
+      },
+      {
+        "date": "2025-09-04",
+        "amount": 0.283
+      },
+      {
+        "date": "2025-12-30",
+        "amount": 1.005
+      }
+    ],
+    "currency": "USD"
+  },
+  "JEPI": {
+    "ticker": "JEPI",
+    "name": "JPMorgan Equity Premium Income ",
+    "sector": "ETF",
+    "price": 58.43,
+    "yield": 0.08079753551257916,
+    "ttm_dividend": 4.721,
+    "frequency": "Monthly",
+    "last_div": 0.427,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.326
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.328
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.408
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.488
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.54
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.358
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.368
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.361
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.346
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.371
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.427
+      }
+    ],
+    "currency": "USD"
+  },
+  "JEPQ": {
+    "ticker": "JEPQ",
+    "name": "JPMorgan Nasdaq Equity Premium ",
+    "sector": "ETF",
+    "price": 58.89,
+    "yield": 0.10397350993377481,
+    "ttm_dividend": 6.122999999999998,
+    "frequency": "Monthly",
+    "last_div": 0.576,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.45
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.482
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.541
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.598
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.621
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.494
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.444
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.442
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.446
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.476
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.553
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.576
+      }
+    ],
+    "currency": "USD"
+  },
+  "QYLD": {
+    "ticker": "QYLD",
+    "name": "Global X NASDAQ 100 Covered Cal",
+    "sector": "ETF",
+    "price": 17.89,
+    "yield": 0.1140860816098379,
+    "ttm_dividend": 2.041,
+    "frequency": "Monthly",
+    "last_div": 0.178,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.188
+      },
+      {
+        "date": "2025-02-24",
+        "amount": 0.165
+      },
+      {
+        "date": "2025-03-24",
+        "amount": 0.17
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 0.16
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.165
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.166
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 0.165
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.168
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.17
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 0.173
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.173
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.178
+      }
+    ],
+    "currency": "USD"
+  },
+  "XYLD": {
+    "ticker": "XYLD",
+    "name": "Global X S&P 500 Covered Call E",
+    "sector": "ETF",
+    "price": 41.02,
+    "yield": 0.10411994149195514,
+    "ttm_dividend": 4.271,
+    "frequency": "Monthly",
+    "last_div": 0.325,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.373
+      },
+      {
+        "date": "2025-02-24",
+        "amount": 0.291
+      },
+      {
+        "date": "2025-03-24",
+        "amount": 0.401
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 0.377
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.389
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.387
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 0.313
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.316
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.302
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 0.397
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.325
+      }
+    ],
+    "currency": "USD"
+  },
+  "RYLD": {
+    "ticker": "RYLD",
+    "name": "Global X Russell 2000 Covered C",
+    "sector": "ETF",
+    "price": 15.69,
+    "yield": 0.117144678138942,
+    "ttm_dividend": 1.8379999999999999,
+    "frequency": "Monthly",
+    "last_div": 0.155,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.168
+      },
+      {
+        "date": "2025-02-24",
+        "amount": 0.163
+      },
+      {
+        "date": "2025-03-24",
+        "amount": 0.154
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 0.143
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.148
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.149
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 0.15
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.151
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.152
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 0.153
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.152
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.155
+      }
+    ],
+    "currency": "USD"
+  },
+  "DIVO": {
+    "ticker": "DIVO",
+    "name": "Amplify CWP Enhanced Dividend I",
+    "sector": "ETF",
+    "price": 45.48,
+    "yield": 0.06299472295514512,
+    "ttm_dividend": 2.8649999999999998,
+    "frequency": "Monthly",
+    "last_div": 0.953,
+    "payments": [
+      {
+        "date": "2025-01-30",
+        "amount": 0.169
+      },
+      {
+        "date": "2025-02-27",
+        "amount": 0.167
+      },
+      {
+        "date": "2025-03-28",
+        "amount": 0.165
+      },
+      {
+        "date": "2025-04-29",
+        "amount": 0.158
+      },
+      {
+        "date": "2025-05-29",
+        "amount": 0.165
+      },
+      {
+        "date": "2025-06-27",
+        "amount": 0.168
+      },
+      {
+        "date": "2025-07-30",
+        "amount": 0.172
+      },
+      {
+        "date": "2025-08-28",
+        "amount": 0.175
+      },
+      {
+        "date": "2025-09-29",
+        "amount": 0.177
+      },
+      {
+        "date": "2025-10-30",
+        "amount": 0.182
+      },
+      {
+        "date": "2025-11-26",
+        "amount": 0.214
+      },
+      {
+        "date": "2025-12-30",
+        "amount": 0.953
+      }
+    ],
+    "currency": "USD"
+  },
+  "NUSI": {
+    "ticker": "NUSI",
+    "name": "NEOS Nasdaq-100 Hedged Equity I",
+    "sector": "ETF",
+    "price": 26.86,
+    "yield": 0.1790433730454207,
+    "ttm_dividend": 4.809105,
+    "frequency": "Monthly",
+    "last_div": 0.411605,
+    "payments": [
+      {
+        "date": "2025-01-22",
+        "amount": 0.3862
+      },
+      {
+        "date": "2025-02-26",
+        "amount": 0.39
+      },
+      {
+        "date": "2025-03-26",
+        "amount": 0.3751
+      },
+      {
+        "date": "2025-04-23",
+        "amount": 0.3444
+      },
+      {
+        "date": "2025-05-21",
+        "amount": 0.4112
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 0.4155
+      },
+      {
+        "date": "2025-07-23",
+        "amount": 0.4258
+      },
+      {
+        "date": "2025-08-20",
+        "amount": 0.4199
+      },
+      {
+        "date": "2025-09-24",
+        "amount": 0.4105
+      },
+      {
+        "date": "2025-10-22",
+        "amount": 0.4127
+      },
+      {
+        "date": "2025-11-26",
+        "amount": 0.4062
+      },
+      {
+        "date": "2025-12-24",
+        "amount": 0.411605
+      }
+    ],
+    "currency": "USD"
+  },
+  "SPYI": {
+    "ticker": "SPYI",
+    "name": "NEOS S&P 500 High Income ETF",
+    "sector": "ETF",
+    "price": 53.12,
+    "yield": 0.1157191265060241,
+    "ttm_dividend": 6.147,
+    "frequency": "Monthly",
+    "last_div": 0.532,
+    "payments": [
+      {
+        "date": "2025-01-22",
+        "amount": 0.517
+      },
+      {
+        "date": "2025-02-26",
+        "amount": 0.514
+      },
+      {
+        "date": "2025-03-26",
+        "amount": 0.506
+      },
+      {
+        "date": "2025-04-23",
+        "amount": 0.462
+      },
+      {
+        "date": "2025-05-21",
+        "amount": 0.506
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 0.505
+      },
+      {
+        "date": "2025-07-23",
+        "amount": 0.511
+      },
+      {
+        "date": "2025-08-20",
+        "amount": 0.518
+      },
+      {
+        "date": "2025-09-24",
+        "amount": 0.527
+      },
+      {
+        "date": "2025-10-22",
+        "amount": 0.527
+      },
+      {
+        "date": "2025-11-26",
+        "amount": 0.522
+      },
+      {
+        "date": "2025-12-24",
+        "amount": 0.532
+      }
+    ],
+    "currency": "USD"
+  },
+  "QQQI": {
+    "ticker": "QQQI",
+    "name": "NEOS Nasdaq 100 High Income ETF",
+    "sector": "ETF",
+    "price": 54.39,
+    "yield": 0.13686339400625114,
+    "ttm_dividend": 7.444,
+    "frequency": "Monthly",
+    "last_div": 0.641,
+    "payments": [
+      {
+        "date": "2025-01-22",
+        "amount": 0.624
+      },
+      {
+        "date": "2025-02-26",
+        "amount": 0.614
+      },
+      {
+        "date": "2025-03-26",
+        "amount": 0.587
+      },
+      {
+        "date": "2025-04-23",
+        "amount": 0.531
+      },
+      {
+        "date": "2025-05-21",
+        "amount": 0.637
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 0.628
+      },
+      {
+        "date": "2025-07-23",
+        "amount": 0.637
+      },
+      {
+        "date": "2025-08-20",
+        "amount": 0.629
+      },
+      {
+        "date": "2025-09-24",
+        "amount": 0.641
+      },
+      {
+        "date": "2025-10-22",
+        "amount": 0.645
+      },
+      {
+        "date": "2025-11-26",
+        "amount": 0.63
+      },
+      {
+        "date": "2025-12-24",
+        "amount": 0.641
+      }
+    ],
+    "currency": "USD"
+  },
+  "XYLG": {
+    "ticker": "XYLG",
+    "name": "Global X S&P 500 Covered Call &",
+    "sector": "ETF",
+    "price": 27.8,
+    "yield": 0.1379496402877698,
+    "ttm_dividend": 3.835,
+    "frequency": "Monthly",
+    "last_div": 2.141,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-02-24",
+        "amount": 0.097
+      },
+      {
+        "date": "2025-03-24",
+        "amount": 0.132
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 0.218
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.139
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.133
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 0.11
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.113
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.11
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 0.186
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.211
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.119
+      },
+      {
+        "date": "2025-12-30",
+        "amount": 2.141
+      }
+    ],
+    "currency": "USD"
+  },
+  "QYLG": {
+    "ticker": "QYLG",
+    "name": "Global X Nasdaq 100 Covered Cal",
+    "sector": "ETF",
+    "price": 27.59,
+    "yield": 0.17716563972453786,
+    "ttm_dividend": 4.888,
+    "frequency": "Monthly",
+    "last_div": 2.778,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.159
+      },
+      {
+        "date": "2025-02-24",
+        "amount": 0.128
+      },
+      {
+        "date": "2025-03-24",
+        "amount": 0.164
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 0.229
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.176
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.16
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 0.136
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.136
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.144
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 0.24
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.276
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.162
+      },
+      {
+        "date": "2025-12-30",
+        "amount": 2.778
+      }
+    ],
+    "currency": "USD"
+  },
+  "VNQ": {
+    "ticker": "VNQ",
+    "name": "Vanguard Real Estate ETF",
+    "sector": "ETF",
+    "price": 91.5,
+    "yield": 0.03795628415300547,
+    "ttm_dividend": 3.4730000000000003,
+    "frequency": "Quarterly",
+    "last_div": 0.801,
+    "payments": [
+      {
+        "date": "2025-03-25",
+        "amount": 0.932
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 0.868
+      },
+      {
+        "date": "2025-09-24",
+        "amount": 0.872
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.801
+      }
+    ],
+    "currency": "USD"
+  },
+  "SCHH": {
+    "ticker": "SCHH",
+    "name": "Schwab U.S. REIT ETF",
+    "sector": "ETF",
+    "price": 21.59,
+    "yield": 0.029458082445576655,
+    "ttm_dividend": 0.636,
+    "frequency": "Quarterly",
+    "last_div": 0.222,
+    "payments": [
+      {
+        "date": "2025-03-26",
+        "amount": 0.099
+      },
+      {
+        "date": "2025-06-25",
+        "amount": 0.159
+      },
+      {
+        "date": "2025-09-24",
+        "amount": 0.156
+      },
+      {
+        "date": "2025-12-10",
+        "amount": 0.222
+      }
+    ],
+    "currency": "USD"
+  },
+  "IYR": {
+    "ticker": "IYR",
+    "name": "iShares U.S. Real Estate ETF",
+    "sector": "ETF",
+    "price": 97.03,
+    "yield": 0.024023497887251364,
+    "ttm_dividend": 2.331,
+    "frequency": "Quarterly",
+    "last_div": 0.862,
+    "payments": [
+      {
+        "date": "2025-03-18",
+        "amount": 0.359
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.495
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 0.615
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 0.862
+      }
+    ],
+    "currency": "USD"
+  },
+  "XLRE": {
+    "ticker": "XLRE",
+    "name": "State Street Real Estate Select",
+    "sector": "ETF",
+    "price": 41.7,
+    "yield": 0.03338129496402877,
+    "ttm_dividend": 1.392,
+    "frequency": "Quarterly",
+    "last_div": 0.436,
+    "payments": [
+      {
+        "date": "2025-03-24",
+        "amount": 0.264
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.375
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.317
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.436
+      }
+    ],
+    "currency": "USD"
+  },
+  "FREL": {
+    "ticker": "FREL",
+    "name": "Fidelity MSCI Real Estate Index",
+    "sector": "ETF",
+    "price": 27.81,
+    "yield": 0.0346997482919813,
+    "ttm_dividend": 0.965,
+    "frequency": "Quarterly",
+    "last_div": 0.216,
+    "payments": [
+      {
+        "date": "2025-03-21",
+        "amount": 0.256
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 0.267
+      },
+      {
+        "date": "2025-09-19",
+        "amount": 0.226
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.216
+      }
+    ],
+    "currency": "USD"
+  },
+  "USRT": {
+    "ticker": "USRT",
+    "name": "iShares Core U.S. REIT ETF",
+    "sector": "ETF",
+    "price": 58.88,
+    "yield": 0.029670516304347822,
+    "ttm_dividend": 1.7469999999999999,
+    "frequency": "Quarterly",
+    "last_div": 0.696,
+    "payments": [
+      {
+        "date": "2025-03-18",
+        "amount": 0.249
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.378
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 0.424
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 0.696
+      }
+    ],
+    "currency": "USD"
+  },
+  "REZ": {
+    "ticker": "REZ",
+    "name": "iShares Residential and Multise",
+    "sector": "ETF",
+    "price": 85.2,
+    "yield": 0.026619718309859153,
+    "ttm_dividend": 2.268,
+    "frequency": "Quarterly",
+    "last_div": 0.907,
+    "payments": [
+      {
+        "date": "2025-03-18",
+        "amount": 0.369
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.519
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 0.473
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 0.907
+      }
+    ],
+    "currency": "USD"
+  },
+  "KBWY": {
+    "ticker": "KBWY",
+    "name": "Invesco KBW Premium Yield Equit",
+    "sector": "ETF",
+    "price": 16.435,
+    "yield": 0.0919379373288713,
+    "ttm_dividend": 1.5109999999999997,
+    "frequency": "Monthly",
+    "last_div": 0.125,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-02-24",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-03-24",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.126
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.125
+      }
+    ],
+    "currency": "USD"
+  },
+  "XLU": {
+    "ticker": "XLU",
+    "name": "State Street Utilities Select S",
+    "sector": "ETF",
+    "price": 43.61,
+    "yield": 0.02653061224489796,
+    "ttm_dividend": 1.157,
+    "frequency": "Quarterly",
+    "last_div": 0.317,
+    "payments": [
+      {
+        "date": "2025-03-24",
+        "amount": 0.2775
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.2785
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.284
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.317
+      }
+    ],
+    "currency": "USD"
+  },
+  "VPU": {
+    "ticker": "VPU",
+    "name": "Vanguard Utilities ETF",
+    "sector": "ETF",
+    "price": 189.71,
+    "yield": 0.02658795002899162,
+    "ttm_dividend": 5.0440000000000005,
+    "frequency": "Quarterly",
+    "last_div": 1.363,
+    "payments": [
+      {
+        "date": "2025-03-25",
+        "amount": 1.228
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 1.226
+      },
+      {
+        "date": "2025-09-24",
+        "amount": 1.227
+      },
+      {
+        "date": "2025-12-17",
+        "amount": 1.363
+      }
+    ],
+    "currency": "USD"
+  },
+  "PFF": {
+    "ticker": "PFF",
+    "name": "iShares Preferred and Income Se",
+    "sector": "ETF",
+    "price": 31.82,
+    "yield": 0.06128221244500314,
+    "ttm_dividend": 1.95,
+    "frequency": "Monthly",
+    "last_div": 0.066,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.175
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.173
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.172
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.174
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.175
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.174
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.162
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.161
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.171
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.171
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.176
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.066
+      }
+    ],
+    "currency": "USD"
+  },
+  "PGX": {
+    "ticker": "PGX",
+    "name": "Invesco Preferred ETF",
+    "sector": "ETF",
+    "price": 11.43,
+    "yield": 0.05914260717410323,
+    "ttm_dividend": 0.6759999999999999,
+    "frequency": "Monthly",
+    "last_div": 0.054,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.059
+      },
+      {
+        "date": "2025-02-24",
+        "amount": 0.056
+      },
+      {
+        "date": "2025-03-24",
+        "amount": 0.056
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 0.054
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.054
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.051
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 0.055
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.055
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.056
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 0.067
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.059
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.054
+      }
+    ],
+    "currency": "USD"
+  },
+  "VRP": {
+    "ticker": "VRP",
+    "name": "Invesco Variable Rate Preferred",
+    "sector": "ETF",
+    "price": 24.49,
+    "yield": 0.0648427929767252,
+    "ttm_dividend": 1.5879999999999999,
+    "frequency": "Monthly",
+    "last_div": 0.21,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.112
+      },
+      {
+        "date": "2025-02-24",
+        "amount": 0.112
+      },
+      {
+        "date": "2025-03-24",
+        "amount": 0.103
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 0.109
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.105
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.109
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 0.111
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.11
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.114
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 0.193
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.2
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.21
+      }
+    ],
+    "currency": "USD"
+  },
+  "FPE": {
+    "ticker": "FPE",
+    "name": "First Trust Preferred Securitie",
+    "sector": "ETF",
+    "price": 18.35,
+    "yield": 0.057765667574931866,
+    "ttm_dividend": 1.0599999999999998,
+    "frequency": "Monthly",
+    "last_div": 0.122,
+    "payments": [
+      {
+        "date": "2025-01-22",
+        "amount": 0.075
+      },
+      {
+        "date": "2025-02-21",
+        "amount": 0.086
+      },
+      {
+        "date": "2025-03-27",
+        "amount": 0.093
+      },
+      {
+        "date": "2025-04-22",
+        "amount": 0.078
+      },
+      {
+        "date": "2025-05-21",
+        "amount": 0.092
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 0.084
+      },
+      {
+        "date": "2025-07-22",
+        "amount": 0.077
+      },
+      {
+        "date": "2025-08-21",
+        "amount": 0.099
+      },
+      {
+        "date": "2025-09-25",
+        "amount": 0.085
+      },
+      {
+        "date": "2025-10-21",
+        "amount": 0.073
+      },
+      {
+        "date": "2025-11-21",
+        "amount": 0.096
+      },
+      {
+        "date": "2025-12-12",
+        "amount": 0.122
+      }
+    ],
+    "currency": "USD"
+  },
+  "BND": {
+    "ticker": "BND",
+    "name": "Vanguard Total Bond Market ETF",
+    "sector": "ETF",
+    "price": 74.32,
+    "yield": 0.03844187298170075,
+    "ttm_dividend": 2.8569999999999993,
+    "frequency": "Monthly",
+    "last_div": 0.247,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.235
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.219
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.24
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.236
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.24
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.235
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.242
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.243
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.237
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.244
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.239
+      },
+      {
+        "date": "2025-12-18",
+        "amount": 0.247
+      }
+    ],
+    "currency": "USD"
+  },
+  "AGG": {
+    "ticker": "AGG",
+    "name": "iShares Core U.S. Aggregate Bon",
+    "sector": "ETF",
+    "price": 100.22,
+    "yield": 0.03874476152464578,
+    "ttm_dividend": 3.883,
+    "frequency": "Monthly",
+    "last_div": 0.334,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.322
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.304
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.325
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.321
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.323
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.319
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.33
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.327
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.325
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.327
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.326
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.334
+      }
+    ],
+    "currency": "USD"
+  },
+  "LQD": {
+    "ticker": "LQD",
+    "name": "iShares iBoxx $ Investment Grad",
+    "sector": "ETF",
+    "price": 110.89,
+    "yield": 0.044512580034268195,
+    "ttm_dividend": 4.936,
+    "frequency": "Monthly",
+    "last_div": 0.436,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.389
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.415
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.417
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.432
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.396
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.402
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.444
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.384
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.406
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.402
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.413
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.436
+      }
+    ],
+    "currency": "USD"
+  },
+  "TLT": {
+    "ticker": "TLT",
+    "name": "iShares 20+ Year Treasury Bond ",
+    "sector": "ETF",
+    "price": 88.31,
+    "yield": 0.0437209829011437,
+    "ttm_dividend": 3.861,
+    "frequency": "Monthly",
+    "last_div": 0.342,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.312
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.29
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.326
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.328
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.32
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.328
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.331
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.328
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.31
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.325
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.321
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.342
+      }
+    ],
+    "currency": "USD"
+  },
+  "IEF": {
+    "ticker": "IEF",
+    "name": "iShares 7-10 Year Treasury Bond",
+    "sector": "ETF",
+    "price": 96.3,
+    "yield": 0.037622014537902385,
+    "ttm_dividend": 3.6229999999999998,
+    "frequency": "Monthly",
+    "last_div": 0.313,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.296
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.275
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.304
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.313
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.31
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.303
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.309
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.314
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.294
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.304
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.288
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.313
+      }
+    ],
+    "currency": "USD"
+  },
+  "SHY": {
+    "ticker": "SHY",
+    "name": "iShares 1-3 Year Treasury Bond ",
+    "sector": "ETF",
+    "price": 82.81,
+    "yield": 0.038063035865233665,
+    "ttm_dividend": 3.1519999999999997,
+    "frequency": "Monthly",
+    "last_div": 0.255,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.273
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.253
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.28
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.259
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.272
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.264
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.27
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.258
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.256
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.263
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.249
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.255
+      }
+    ],
+    "currency": "USD"
+  },
+  "TIP": {
+    "ticker": "TIP",
+    "name": "iShares TIPS Bond ETF",
+    "sector": "ETF",
+    "price": 110.23,
+    "yield": 0.03448244579515558,
+    "ttm_dividend": 3.801,
+    "frequency": "Monthly",
+    "last_div": 0.342,
+    "payments": [
+      {
+        "date": "2025-04-01",
+        "amount": 0.709
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.535
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.273
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.38
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.264
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.417
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.198
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.361
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.322
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.342
+      }
+    ],
+    "currency": "USD"
+  },
+  "HYG": {
+    "ticker": "HYG",
+    "name": "iShares iBoxx $ High Yield Corp",
+    "sector": "ETF",
+    "price": 81.04,
+    "yield": 0.05683613030602172,
+    "ttm_dividend": 4.606000000000001,
+    "frequency": "Monthly",
+    "last_div": 0.381,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.36
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.374
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.382
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.401
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.376
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.379
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.404
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.383
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.381
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.41
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.375
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.381
+      }
+    ],
+    "currency": "USD"
+  },
+  "JNK": {
+    "ticker": "JNK",
+    "name": "State Street SPDR Bloomberg Hig",
+    "sector": "ETF",
+    "price": 97.74,
+    "yield": 0.06506036423163496,
+    "ttm_dividend": 6.359,
+    "frequency": "Monthly",
+    "last_div": 0.491,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.536
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.528
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.532
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.529
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.536
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.54
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.539
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.529
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.538
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.533
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.528
+      },
+      {
+        "date": "2025-12-18",
+        "amount": 0.491
+      }
+    ],
+    "currency": "USD"
+  },
+  "AMLP": {
+    "ticker": "AMLP",
+    "name": "Alerian MLP ETF",
+    "sector": "ETF",
+    "price": 49.1,
+    "yield": 0.080040733197556,
+    "ttm_dividend": 3.9299999999999997,
+    "frequency": "Quarterly",
+    "last_div": 1.0,
+    "payments": [
+      {
+        "date": "2025-02-12",
+        "amount": 0.97
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 0.98
+      },
+      {
+        "date": "2025-08-13",
+        "amount": 0.98
+      },
+      {
+        "date": "2025-11-12",
+        "amount": 1.0
+      }
+    ],
+    "currency": "USD"
+  },
+  "MLPA": {
+    "ticker": "MLPA",
+    "name": "Global X MLP ETF",
+    "sector": "ETF",
+    "price": 50.51,
+    "yield": 0.07493565630568205,
+    "ttm_dividend": 3.785,
+    "frequency": "Quarterly",
+    "last_div": 0.98,
+    "payments": [
+      {
+        "date": "2025-02-07",
+        "amount": 0.935
+      },
+      {
+        "date": "2025-05-07",
+        "amount": 0.935
+      },
+      {
+        "date": "2025-08-07",
+        "amount": 0.935
+      },
+      {
+        "date": "2025-11-07",
+        "amount": 0.98
+      }
+    ],
+    "currency": "USD"
+  },
+  "ENFR": {
+    "ticker": "ENFR",
+    "name": "Alerian Energy Infrastructure E",
+    "sector": "ETF",
+    "price": 31.83,
+    "yield": 0.04709393653785737,
+    "ttm_dividend": 1.499,
+    "frequency": "Quarterly",
+    "last_div": 0.38,
+    "payments": [
+      {
+        "date": "2025-02-12",
+        "amount": 0.356
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 0.377
+      },
+      {
+        "date": "2025-08-13",
+        "amount": 0.386
+      },
+      {
+        "date": "2025-11-12",
+        "amount": 0.38
+      }
+    ],
+    "currency": "USD"
+  },
+  "SPHD": {
+    "ticker": "SPHD",
+    "name": "Invesco S&P 500 High Dividend L",
+    "sector": "ETF",
+    "price": 49.56,
+    "yield": 0.03900322841000807,
+    "ttm_dividend": 1.933,
+    "frequency": "Monthly",
+    "last_div": 0.206,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.138
+      },
+      {
+        "date": "2025-02-24",
+        "amount": 0.138
+      },
+      {
+        "date": "2025-03-24",
+        "amount": 0.139
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 0.14
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.146
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.151
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 0.157
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.162
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.178
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 0.183
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.195
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.206
+      }
+    ],
+    "currency": "USD"
+  },
+  "USMV": {
+    "ticker": "USMV",
+    "name": "iShares MSCI USA Min Vol Factor",
+    "sector": "ETF",
+    "price": 94.58,
+    "yield": 0.014834002960456756,
+    "ttm_dividend": 1.403,
+    "frequency": "Quarterly",
+    "last_div": 0.391,
+    "payments": [
+      {
+        "date": "2025-03-18",
+        "amount": 0.325
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.325
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 0.362
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 0.391
+      }
+    ],
+    "currency": "USD"
+  },
+  "SPLV": {
+    "ticker": "SPLV",
+    "name": "Invesco S&P 500 Low Volatility ",
+    "sector": "ETF",
+    "price": 73.05,
+    "yield": 0.019945242984257358,
+    "ttm_dividend": 1.4569999999999999,
+    "frequency": "Monthly",
+    "last_div": 0.134,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.102
+      },
+      {
+        "date": "2025-02-24",
+        "amount": 0.102
+      },
+      {
+        "date": "2025-03-24",
+        "amount": 0.106
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 0.114
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.116
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 0.127
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 0.128
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.129
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.132
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 0.133
+      },
+      {
+        "date": "2025-11-24",
+        "amount": 0.134
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.134
+      }
+    ],
+    "currency": "USD"
+  },
+  "QUAL": {
+    "ticker": "QUAL",
+    "name": "iShares MSCI USA Quality Factor",
+    "sector": "ETF",
+    "price": 203.49,
+    "yield": 0.009135584058184676,
+    "ttm_dividend": 1.859,
+    "frequency": "Quarterly",
+    "last_div": 0.611,
+    "payments": [
+      {
+        "date": "2025-03-18",
+        "amount": 0.391
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.388
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 0.469
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 0.611
+      }
+    ],
+    "currency": "USD"
+  },
+  "USIG": {
+    "ticker": "USIG",
+    "name": "iShares Broad USD Investment Gr",
+    "sector": "ETF",
+    "price": 52.01,
+    "yield": 0.04597192847529322,
+    "ttm_dividend": 2.391,
+    "frequency": "Monthly",
+    "last_div": 0.206,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.195
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.196
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.195
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.193
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.197
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.199
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.2
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.201
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.205
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.202
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.202
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.206
+      }
+    ],
+    "currency": "USD"
+  },
+  "BIL": {
+    "ticker": "BIL",
+    "name": "State Street SPDR Bloomberg 1-3",
+    "sector": "ETF",
+    "price": 91.5,
+    "yield": 0.04121311475409836,
+    "ttm_dividend": 3.771,
+    "frequency": "Monthly",
+    "last_div": 0.365,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.326
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.289
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.321
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.312
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.316
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.306
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.319
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.322
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.311
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.303
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.281
+      },
+      {
+        "date": "2025-12-18",
+        "amount": 0.365
+      }
+    ],
+    "currency": "USD"
+  },
+  "SGOV": {
+    "ticker": "SGOV",
+    "name": "iShares 0-3 Month Treasury Bond",
+    "sector": "ETF",
+    "price": 100.52,
+    "yield": 0.04093712693991246,
+    "ttm_dividend": 4.115,
+    "frequency": "Monthly",
+    "last_div": 0.323,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.363
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.313
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.346
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.335
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.358
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.347
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.362
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.36
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.347
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.348
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.313
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.323
+      }
+    ],
+    "currency": "USD"
+  },
+  "MINT": {
+    "ticker": "MINT",
+    "name": "PIMCO Enhanced Short Maturity A",
+    "sector": "ETF",
+    "price": 100.53,
+    "yield": 0.0462548492987168,
+    "ttm_dividend": 4.65,
+    "frequency": "Monthly",
+    "last_div": 0.36,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.42
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.38
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.38
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.38
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.38
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.38
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.37
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.36
+      }
+    ],
+    "currency": "USD"
+  },
+  "HYD": {
+    "ticker": "HYD",
+    "name": "VanEck High Yield Muni ETF",
+    "sector": "ETF",
+    "price": 51.47,
+    "yield": 0.04260734408393239,
+    "ttm_dividend": 2.193,
+    "frequency": "Monthly",
+    "last_div": 0.18,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.207
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.159
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.189
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.172
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.184
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.188
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.192
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.185
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.174
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.191
+      },
+      {
+        "date": "2025-11-28",
+        "amount": 0.172
+      },
+      {
+        "date": "2025-12-29",
+        "amount": 0.18
+      }
+    ],
+    "currency": "USD"
+  },
+  "TLH": {
+    "ticker": "TLH",
+    "name": "iShares 10-20 Year Treasury Bon",
+    "sector": "ETF",
+    "price": 102.63,
+    "yield": 0.04128422488551106,
+    "ttm_dividend": 4.237,
+    "frequency": "Monthly",
+    "last_div": 0.378,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.349
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.247
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.37
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.356
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.346
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.36
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.377
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.373
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.346
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.369
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.366
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 0.378
+      }
+    ],
+    "currency": "USD"
+  },
+  "VCIT": {
+    "ticker": "VCIT",
+    "name": "Vanguard Intermediate-Term Corp",
+    "sector": "ETF",
+    "price": 83.97,
+    "yield": 0.04608788853161844,
+    "ttm_dividend": 3.87,
+    "frequency": "Monthly",
+    "last_div": 0.336,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.313
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.287
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.319
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.315
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.328
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.321
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.341
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.328
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.326
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.334
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.322
+      },
+      {
+        "date": "2025-12-18",
+        "amount": 0.336
+      }
+    ],
+    "currency": "USD"
+  },
+  "VCSH": {
+    "ticker": "VCSH",
+    "name": "Vanguard Short-Term Corporate B",
+    "sector": "ETF",
+    "price": 79.8,
+    "yield": 0.04340852130325815,
+    "ttm_dividend": 3.4640000000000004,
+    "frequency": "Monthly",
+    "last_div": 0.301,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.281
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.259
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.289
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.282
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.297
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.29
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.297
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.29
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.29
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.297
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.291
+      },
+      {
+        "date": "2025-12-18",
+        "amount": 0.301
+      }
+    ],
+    "currency": "USD"
+  },
+  "BNDW": {
+    "ticker": "BNDW",
+    "name": "Vanguard Total World Bond ETF",
+    "sector": "ETF",
+    "price": 69.05,
+    "yield": 0.04101375814627082,
+    "ttm_dividend": 2.832,
+    "frequency": "Monthly",
+    "last_div": 0.782,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.186
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.172
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.186
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.188
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.184
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.187
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.194
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.184
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.192
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.187
+      },
+      {
+        "date": "2025-12-18",
+        "amount": 0.782
+      }
+    ],
+    "currency": "USD"
+  },
+  "VTIP": {
+    "ticker": "VTIP",
+    "name": "Vanguard Short-Term Inflation-P",
+    "sector": "ETF",
+    "price": 49.48,
+    "yield": 0.03805578011317704,
+    "ttm_dividend": 1.883,
+    "frequency": "Quarterly",
+    "last_div": 0.711,
+    "payments": [
+      {
+        "date": "2025-04-01",
+        "amount": 0.098
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.426
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.648
+      },
+      {
+        "date": "2025-12-18",
+        "amount": 0.711
+      }
+    ],
+    "currency": "USD"
+  },
+  "LTPZ": {
+    "ticker": "LTPZ",
+    "name": "Pimco 15  Year U.S. TIPS Index ",
+    "sector": "ETF",
+    "price": 52.38,
+    "yield": 0.04581901489117984,
+    "ttm_dividend": 2.4000000000000004,
+    "frequency": "Monthly",
+    "last_div": 0.2,
+    "payments": [
+      {
+        "date": "2025-03-03",
+        "amount": 0.03
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.45
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.33
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.23
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.17
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.24
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.14
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.22
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.2
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.2
+      }
+    ],
+    "currency": "USD"
+  },
+  "IEMG": {
+    "ticker": "IEMG",
+    "name": "iShares Core MSCI Emerging Mark",
+    "sector": "ETF",
+    "price": 71.18,
+    "yield": 0.025976397864568696,
+    "ttm_dividend": 1.849,
+    "frequency": "Semi-Annual/Annual",
+    "last_div": 1.139,
+    "payments": [
+      {
+        "date": "2025-06-16",
+        "amount": 0.71
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 1.139
+      }
+    ],
+    "currency": "USD"
+  },
+  "VEA": {
+    "ticker": "VEA",
+    "name": "Vanguard FTSE Developed Markets",
+    "sector": "ETF",
+    "price": 64.96,
+    "yield": 0.030942118226600986,
+    "ttm_dividend": 2.01,
+    "frequency": "Quarterly",
+    "last_div": 1.04,
+    "payments": [
+      {
+        "date": "2025-03-21",
+        "amount": 0.242
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 0.441
+      },
+      {
+        "date": "2025-09-19",
+        "amount": 0.287
+      },
+      {
+        "date": "2025-12-19",
+        "amount": 1.04
+      }
+    ],
+    "currency": "USD"
+  },
+  "IEFA": {
+    "ticker": "IEFA",
+    "name": "iShares Core MSCI EAFE ETF",
+    "sector": "ETF",
+    "price": 92.5,
+    "yield": 0.03435675675675676,
+    "ttm_dividend": 3.178,
+    "frequency": "Semi-Annual/Annual",
+    "last_div": 1.711,
+    "payments": [
+      {
+        "date": "2025-06-16",
+        "amount": 1.467
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 1.711
+      }
+    ],
+    "currency": "USD"
+  },
+  "EEM": {
+    "ticker": "EEM",
+    "name": "iShares MSCI Emerging Index Fun",
+    "sector": "ETF",
+    "price": 58.09,
+    "yield": 0.020915820278877603,
+    "ttm_dividend": 1.215,
+    "frequency": "Semi-Annual/Annual",
+    "last_div": 0.763,
+    "payments": [
+      {
+        "date": "2025-06-16",
+        "amount": 0.452
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 0.763
+      }
+    ],
+    "currency": "USD"
+  },
+  "EWU": {
+    "ticker": "EWU",
+    "name": "iShares MSCI",
+    "sector": "ETF",
+    "price": 45.09,
+    "yield": 0.036371701042359726,
+    "ttm_dividend": 1.6400000000000001,
+    "frequency": "Semi-Annual/Annual",
+    "last_div": 0.829,
+    "payments": [
+      {
+        "date": "2025-06-16",
+        "amount": 0.811
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 0.829
+      }
+    ],
+    "currency": "USD"
+  },
+  "EWJ": {
+    "ticker": "EWJ",
+    "name": "iShares MSCI Japan Index Fund",
+    "sector": "ETF",
+    "price": 85.42,
+    "yield": 0.042753453523764924,
+    "ttm_dividend": 3.652,
+    "frequency": "Semi-Annual/Annual",
+    "last_div": 3.061,
+    "payments": [
+      {
+        "date": "2025-06-16",
+        "amount": 0.591
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 3.061
+      }
+    ],
+    "currency": "USD"
+  },
+  "EWG": {
+    "ticker": "EWG",
+    "name": "iShares MSCI Germany Index Fund",
+    "sector": "ETF",
+    "price": 43.24,
+    "yield": 0.015703052728954673,
+    "ttm_dividend": 0.679,
+    "frequency": "Semi-Annual/Annual",
+    "last_div": 0.679,
+    "payments": [
+      {
+        "date": "2025-06-16",
+        "amount": 0.679
+      }
+    ],
+    "currency": "USD"
+  },
+  "EFA": {
+    "ticker": "EFA",
+    "name": "iShares MSCI EAFE ETF",
+    "sector": "ETF",
+    "price": 99.26,
+    "yield": 0.03271206931291557,
+    "ttm_dividend": 3.247,
+    "frequency": "Semi-Annual/Annual",
+    "last_div": 1.728,
+    "payments": [
+      {
+        "date": "2025-06-16",
+        "amount": 1.519
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 1.728
+      }
+    ],
+    "currency": "USD"
+  },
+  "SPDW": {
+    "ticker": "SPDW",
+    "name": "SPDR Portfolio Developed World ",
+    "sector": "ETF",
+    "price": 46.17,
+    "yield": 0.031752220056313625,
+    "ttm_dividend": 1.4660000000000002,
+    "frequency": "Semi-Annual/Annual",
+    "last_div": 0.794,
+    "payments": [
+      {
+        "date": "2025-06-23",
+        "amount": 0.672
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.794
+      }
+    ],
+    "currency": "USD"
+  },
+  "SCHF": {
+    "ticker": "SCHF",
+    "name": "Schwab International Equity ETF",
+    "sector": "ETF",
+    "price": 25.05,
+    "yield": 0.03281437125748503,
+    "ttm_dividend": 0.8220000000000001,
+    "frequency": "Semi-Annual/Annual",
+    "last_div": 0.678,
+    "payments": [
+      {
+        "date": "2025-06-25",
+        "amount": 0.144
+      },
+      {
+        "date": "2025-12-11",
+        "amount": 0.678
+      }
+    ],
+    "currency": "USD"
+  },
+  "BIZD": {
+    "ticker": "BIZD",
+    "name": "VanEck BDC Income ETF",
+    "sector": "ETF",
+    "price": 14.6,
+    "yield": 0.1145205479452055,
+    "ttm_dividend": 1.6720000000000002,
+    "frequency": "Quarterly",
+    "last_div": 0.402,
+    "payments": [
+      {
+        "date": "2025-04-01",
+        "amount": 0.43
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.439
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.401
+      },
+      {
+        "date": "2025-12-29",
+        "amount": 0.402
+      }
+    ],
+    "currency": "USD"
+  },
+  "O": {
+    "ticker": "O",
+    "name": "Realty Income Corporation",
+    "sector": "Real Estate",
+    "price": 61.42,
+    "yield": 0.05252360794529469,
+    "ttm_dividend": 3.226,
+    "frequency": "Monthly",
+    "last_div": 0.27,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.264
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 0.268
+      },
+      {
+        "date": "2025-04-01",
+        "amount": 0.269
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 0.269
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.269
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 0.269
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 0.269
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.269
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.27
+      },
+      {
+        "date": "2025-10-31",
+        "amount": 0.27
+      },
+      {
+        "date": "2025-11-28",
+        "amount": 0.27
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.27
+      }
+    ],
+    "currency": "USD"
+  },
+  "STAG": {
+    "ticker": "STAG",
+    "name": "Stag Industrial, Inc.",
+    "sector": "Real Estate",
+    "price": 37.88,
+    "yield": 0.03928194297782472,
+    "ttm_dividend": 1.4880000000000004,
+    "frequency": "Monthly",
+    "last_div": 0.124,
+    "payments": [
+      {
+        "date": "2025-01-31",
+        "amount": 0.124
+      },
+      {
+        "date": "2025-02-28",
+        "amount": 0.124
+      },
+      {
+        "date": "2025-03-31",
+        "amount": 0.124
+      },
+      {
+        "date": "2025-04-30",
+        "amount": 0.124
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 0.124
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.124
+      },
+      {
+        "date": "2025-07-31",
+        "amount": 0.124
+      },
+      {
+        "date": "2025-08-29",
+        "amount": 0.124
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.124
+      },
+      {
+        "date": "2025-10-31",
+        "amount": 0.124
+      },
+      {
+        "date": "2025-11-28",
+        "amount": 0.124
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.124
+      }
+    ],
+    "currency": "USD"
+  },
+  "ADC": {
+    "ticker": "ADC",
+    "name": "Agree Realty Corporation",
+    "sector": "Real Estate",
+    "price": 73.19,
+    "yield": 0.042095914742451154,
+    "ttm_dividend": 3.081,
+    "frequency": "Monthly",
+    "last_div": 0.262,
+    "payments": [
+      {
+        "date": "2025-01-31",
+        "amount": 0.253
+      },
+      {
+        "date": "2025-02-28",
+        "amount": 0.253
+      },
+      {
+        "date": "2025-03-31",
+        "amount": 0.253
+      },
+      {
+        "date": "2025-04-30",
+        "amount": 0.256
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 0.256
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.256
+      },
+      {
+        "date": "2025-07-31",
+        "amount": 0.256
+      },
+      {
+        "date": "2025-08-29",
+        "amount": 0.256
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.256
+      },
+      {
+        "date": "2025-10-31",
+        "amount": 0.262
+      },
+      {
+        "date": "2025-11-28",
+        "amount": 0.262
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.262
+      }
+    ],
+    "currency": "USD"
+  },
+  "NNN": {
+    "ticker": "NNN",
+    "name": "NNN REIT, Inc.",
+    "sector": "Real Estate",
+    "price": 42.64,
+    "yield": 0.055347091932457786,
+    "ttm_dividend": 2.36,
+    "frequency": "Quarterly",
+    "last_div": 0.6,
+    "payments": [
+      {
+        "date": "2025-01-31",
+        "amount": 0.58
+      },
+      {
+        "date": "2025-04-30",
+        "amount": 0.58
+      },
+      {
+        "date": "2025-07-31",
+        "amount": 0.6
+      },
+      {
+        "date": "2025-10-31",
+        "amount": 0.6
+      }
+    ],
+    "currency": "USD"
+  },
+  "WPC": {
+    "ticker": "WPC",
+    "name": "W. P. Carey Inc. REIT",
+    "sector": "Real Estate",
+    "price": 70.26,
+    "yield": 0.051522914887560486,
+    "ttm_dividend": 3.62,
+    "frequency": "Quarterly",
+    "last_div": 0.92,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 0.89
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.9
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.91
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.92
+      }
+    ],
+    "currency": "USD"
+  },
+  "FRT": {
+    "ticker": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "sector": "Real Estate",
+    "price": 103.67,
+    "yield": 0.043021124722677724,
+    "ttm_dividend": 4.46,
+    "frequency": "Quarterly",
+    "last_div": 1.13,
+    "payments": [
+      {
+        "date": "2025-04-01",
+        "amount": 1.1
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 1.1
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 1.13
+      },
+      {
+        "date": "2026-01-02",
+        "amount": 1.13
+      }
+    ],
+    "currency": "USD"
+  },
+  "SPG": {
+    "ticker": "SPG",
+    "name": "Simon Property Group, Inc.",
+    "sector": "Real Estate",
+    "price": 184.92,
+    "yield": 0.04623621025308242,
+    "ttm_dividend": 8.55,
+    "frequency": "Quarterly",
+    "last_div": 2.2,
+    "payments": [
+      {
+        "date": "2025-03-10",
+        "amount": 2.1
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 2.1
+      },
+      {
+        "date": "2025-09-09",
+        "amount": 2.15
+      },
+      {
+        "date": "2025-12-10",
+        "amount": 2.2
+      }
+    ],
+    "currency": "USD"
+  },
+  "VICI": {
+    "ticker": "VICI",
+    "name": "VICI Properties Inc.",
+    "sector": "Real Estate",
+    "price": 28.98,
+    "yield": 0.06093857832988268,
+    "ttm_dividend": 1.766,
+    "frequency": "Quarterly",
+    "last_div": 0.45,
+    "payments": [
+      {
+        "date": "2025-03-20",
+        "amount": 0.433
+      },
+      {
+        "date": "2025-06-18",
+        "amount": 0.433
+      },
+      {
+        "date": "2025-09-18",
+        "amount": 0.45
+      },
+      {
+        "date": "2025-12-17",
+        "amount": 0.45
+      }
+    ],
+    "currency": "USD"
+  },
+  "PSA": {
+    "ticker": "PSA",
+    "name": "Public Storage",
+    "sector": "Real Estate",
+    "price": 293.89,
+    "yield": 0.0408316036612338,
+    "ttm_dividend": 12.0,
+    "frequency": "Quarterly",
+    "last_div": 3.0,
+    "payments": [
+      {
+        "date": "2025-03-13",
+        "amount": 3.0
+      },
+      {
+        "date": "2025-06-12",
+        "amount": 3.0
+      },
+      {
+        "date": "2025-09-15",
+        "amount": 3.0
+      },
+      {
+        "date": "2025-12-15",
+        "amount": 3.0
+      }
+    ],
+    "currency": "USD"
+  },
+  "PLD": {
+    "ticker": "PLD",
+    "name": "Prologis, Inc.",
+    "sector": "Real Estate",
+    "price": 133.21,
+    "yield": 0.030328053449440732,
+    "ttm_dividend": 4.04,
+    "frequency": "Quarterly",
+    "last_div": 1.01,
+    "payments": [
+      {
+        "date": "2025-03-18",
+        "amount": 1.01
+      },
+      {
+        "date": "2025-06-17",
+        "amount": 1.01
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 1.01
+      },
+      {
+        "date": "2025-12-16",
+        "amount": 1.01
+      }
+    ],
+    "currency": "USD"
+  },
+  "WELL": {
+    "ticker": "WELL",
+    "name": "Welltower Inc.",
+    "sector": "Real Estate",
+    "price": 191.38,
+    "yield": 0.014735082035740414,
+    "ttm_dividend": 2.8200000000000003,
+    "frequency": "Quarterly",
+    "last_div": 0.74,
+    "payments": [
+      {
+        "date": "2025-02-25",
+        "amount": 0.67
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 0.67
+      },
+      {
+        "date": "2025-08-12",
+        "amount": 0.74
+      },
+      {
+        "date": "2025-11-10",
+        "amount": 0.74
+      }
+    ],
+    "currency": "USD"
+  },
+  "VTR": {
+    "ticker": "VTR",
+    "name": "Ventas, Inc.",
+    "sector": "Real Estate",
+    "price": 78.45,
+    "yield": 0.024474187380497132,
+    "ttm_dividend": 1.92,
+    "frequency": "Quarterly",
+    "last_div": 0.48,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 0.48
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.48
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.48
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.48
+      }
+    ],
+    "currency": "USD"
+  },
+  "AVB": {
+    "ticker": "AVB",
+    "name": "AvalonBay Communities, Inc.",
+    "sector": "Real Estate",
+    "price": 182.42,
+    "yield": 0.038372985418265546,
+    "ttm_dividend": 7.0,
+    "frequency": "Quarterly",
+    "last_div": 1.75,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 1.75
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 1.75
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 1.75
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 1.75
+      }
+    ],
+    "currency": "USD"
+  },
+  "EQR": {
+    "ticker": "EQR",
+    "name": "Equity Residential",
+    "sector": "Real Estate",
+    "price": 62.04,
+    "yield": 0.04468085106382978,
+    "ttm_dividend": 2.772,
+    "frequency": "Quarterly",
+    "last_div": 0.693,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 0.693
+      },
+      {
+        "date": "2025-06-24",
+        "amount": 0.693
+      },
+      {
+        "date": "2025-09-25",
+        "amount": 0.693
+      },
+      {
+        "date": "2026-01-02",
+        "amount": 0.693
+      }
+    ],
+    "currency": "USD"
+  },
+  "ESS": {
+    "ticker": "ESS",
+    "name": "Essex Property Trust, Inc.",
+    "sector": "Real Estate",
+    "price": 258.27,
+    "yield": 0.03980330661710613,
+    "ttm_dividend": 10.28,
+    "frequency": "Quarterly",
+    "last_div": 2.57,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 2.57
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 2.57
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 2.57
+      },
+      {
+        "date": "2026-01-02",
+        "amount": 2.57
+      }
+    ],
+    "currency": "USD"
+  },
+  "ARE": {
+    "ticker": "ARE",
+    "name": "Alexandria Real Estate Equities",
+    "sector": "Real Estate",
+    "price": 57.89,
+    "yield": 0.08084297806184142,
+    "ttm_dividend": 4.68,
+    "frequency": "Quarterly",
+    "last_div": 0.72,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 1.32
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 1.32
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 1.32
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.72
+      }
+    ],
+    "currency": "USD"
+  },
+  "EPR": {
+    "ticker": "EPR",
+    "name": "EPR Properties",
+    "sector": "Real Estate",
+    "price": 55.9,
+    "yield": 0.06296958855098389,
+    "ttm_dividend": 3.5199999999999996,
+    "frequency": "Monthly",
+    "last_div": 0.295,
+    "payments": [
+      {
+        "date": "2025-01-31",
+        "amount": 0.285
+      },
+      {
+        "date": "2025-02-28",
+        "amount": 0.285
+      },
+      {
+        "date": "2025-03-31",
+        "amount": 0.295
+      },
+      {
+        "date": "2025-04-30",
+        "amount": 0.295
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 0.295
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.295
+      },
+      {
+        "date": "2025-07-31",
+        "amount": 0.295
+      },
+      {
+        "date": "2025-08-29",
+        "amount": 0.295
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.295
+      },
+      {
+        "date": "2025-10-31",
+        "amount": 0.295
+      },
+      {
+        "date": "2025-11-28",
+        "amount": 0.295
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.295
+      }
+    ],
+    "currency": "USD"
+  },
+  "LTC": {
+    "ticker": "LTC",
+    "name": "LTC Properties, Inc.",
+    "sector": "Real Estate",
+    "price": 36.92,
+    "yield": 0.06175514626218851,
+    "ttm_dividend": 2.28,
+    "frequency": "Monthly",
+    "last_div": 0.19,
+    "payments": [
+      {
+        "date": "2025-01-23",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-02-20",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-03-21",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-04-22",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-05-22",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-07-23",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-08-21",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-10-23",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-11-20",
+        "amount": 0.19
+      },
+      {
+        "date": "2025-12-23",
+        "amount": 0.19
+      }
+    ],
+    "currency": "USD"
+  },
+  "AGNC": {
+    "ticker": "AGNC",
+    "name": "AGNC Investment Corp.",
+    "sector": "Real Estate",
+    "price": 11.93,
+    "yield": 0.12070410729253984,
+    "ttm_dividend": 1.4400000000000004,
+    "frequency": "Monthly",
+    "last_div": 0.12,
+    "payments": [
+      {
+        "date": "2025-01-31",
+        "amount": 0.12
+      },
+      {
+        "date": "2025-02-28",
+        "amount": 0.12
+      },
+      {
+        "date": "2025-03-31",
+        "amount": 0.12
+      },
+      {
+        "date": "2025-04-30",
+        "amount": 0.12
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 0.12
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.12
+      },
+      {
+        "date": "2025-07-31",
+        "amount": 0.12
+      },
+      {
+        "date": "2025-08-29",
+        "amount": 0.12
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.12
+      },
+      {
+        "date": "2025-10-31",
+        "amount": 0.12
+      },
+      {
+        "date": "2025-11-28",
+        "amount": 0.12
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.12
+      }
+    ],
+    "currency": "USD"
+  },
+  "NLY": {
+    "ticker": "NLY",
+    "name": "Annaly Capital Management Inc.",
+    "sector": "Real Estate",
+    "price": 24.4,
+    "yield": 0.11475409836065574,
+    "ttm_dividend": 2.8,
+    "frequency": "Quarterly",
+    "last_div": 0.7,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 0.7
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.7
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.7
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.7
+      }
+    ],
+    "currency": "USD"
+  },
+  "STWD": {
+    "ticker": "STWD",
+    "name": "STARWOOD PROPERTY TRUST, INC. S",
+    "sector": "Real Estate",
+    "price": 18.56,
+    "yield": 0.10344827586206896,
+    "ttm_dividend": 1.92,
+    "frequency": "Quarterly",
+    "last_div": 0.48,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 0.48
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.48
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.48
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.48
+      }
+    ],
+    "currency": "USD"
+  },
+  "BXMT": {
+    "ticker": "BXMT",
+    "name": "Blackstone Mortgage Trust, Inc.",
+    "sector": "Real Estate",
+    "price": 19.62,
+    "yield": 0.09582059123343525,
+    "ttm_dividend": 1.88,
+    "frequency": "Quarterly",
+    "last_div": 0.47,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 0.47
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.47
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.47
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.47
+      }
+    ],
+    "currency": "USD"
+  },
+  "MAIN": {
+    "ticker": "MAIN",
+    "name": "Main Street Capital Corporation",
+    "sector": "Financial Services",
+    "price": 63.96,
+    "yield": 0.06629143214509069,
+    "ttm_dividend": 4.24,
+    "frequency": "Monthly",
+    "last_div": 0.26,
+    "payments": [
+      {
+        "date": "2025-02-07",
+        "amount": 0.25
+      },
+      {
+        "date": "2025-03-07",
+        "amount": 0.25
+      },
+      {
+        "date": "2025-03-20",
+        "amount": 0.3
+      },
+      {
+        "date": "2025-04-08",
+        "amount": 0.25
+      },
+      {
+        "date": "2025-05-08",
+        "amount": 0.25
+      },
+      {
+        "date": "2025-06-06",
+        "amount": 0.25
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 0.3
+      },
+      {
+        "date": "2025-07-08",
+        "amount": 0.255
+      },
+      {
+        "date": "2025-08-08",
+        "amount": 0.255
+      },
+      {
+        "date": "2025-09-08",
+        "amount": 0.255
+      },
+      {
+        "date": "2025-09-19",
+        "amount": 0.3
+      },
+      {
+        "date": "2025-10-08",
+        "amount": 0.255
+      },
+      {
+        "date": "2025-11-07",
+        "amount": 0.255
+      },
+      {
+        "date": "2025-12-08",
+        "amount": 0.255
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.3
+      },
+      {
+        "date": "2026-01-08",
+        "amount": 0.26
+      }
+    ],
+    "currency": "USD"
+  },
+  "ARCC": {
+    "ticker": "ARCC",
+    "name": "Ares Capital Corporation",
+    "sector": "Financial Services",
+    "price": 20.9,
+    "yield": 0.09186602870813397,
+    "ttm_dividend": 1.92,
+    "frequency": "Quarterly",
+    "last_div": 0.48,
+    "payments": [
+      {
+        "date": "2025-03-14",
+        "amount": 0.48
+      },
+      {
+        "date": "2025-06-13",
+        "amount": 0.48
+      },
+      {
+        "date": "2025-09-15",
+        "amount": 0.48
+      },
+      {
+        "date": "2025-12-15",
+        "amount": 0.48
+      }
+    ],
+    "currency": "USD"
+  },
+  "OBDC": {
+    "ticker": "OBDC",
+    "name": "Blue Owl Capital Corporation",
+    "sector": "Financial Services",
+    "price": 12.61,
+    "yield": 0.12371134020618557,
+    "ttm_dividend": 1.56,
+    "frequency": "Quarterly",
+    "last_div": 0.37,
+    "payments": [
+      {
+        "date": "2025-02-28",
+        "amount": 0.05
+      },
+      {
+        "date": "2025-03-31",
+        "amount": 0.37
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 0.01
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.37
+      },
+      {
+        "date": "2025-08-29",
+        "amount": 0.02
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.37
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.37
+      }
+    ],
+    "currency": "USD"
+  },
+  "FSK": {
+    "ticker": "FSK",
+    "name": "FS KKR Capital Corp.",
+    "sector": "Financial Services",
+    "price": 14.51,
+    "yield": 0.19297036526533423,
+    "ttm_dividend": 2.8,
+    "frequency": "Quarterly",
+    "last_div": 0.7,
+    "payments": [
+      {
+        "date": "2025-03-19",
+        "amount": 0.7
+      },
+      {
+        "date": "2025-06-18",
+        "amount": 0.7
+      },
+      {
+        "date": "2025-09-17",
+        "amount": 0.7
+      },
+      {
+        "date": "2025-12-03",
+        "amount": 0.7
+      }
+    ],
+    "currency": "USD"
+  },
+  "GBDC": {
+    "ticker": "GBDC",
+    "name": "Golub Capital BDC, Inc.",
+    "sector": "Financial Services",
+    "price": 13.82,
+    "yield": 0.11287988422575977,
+    "ttm_dividend": 1.56,
+    "frequency": "Quarterly",
+    "last_div": 0.39,
+    "payments": [
+      {
+        "date": "2025-03-03",
+        "amount": 0.39
+      },
+      {
+        "date": "2025-06-13",
+        "amount": 0.39
+      },
+      {
+        "date": "2025-09-15",
+        "amount": 0.39
+      },
+      {
+        "date": "2025-12-12",
+        "amount": 0.39
+      }
+    ],
+    "currency": "USD"
+  },
+  "HTGC": {
+    "ticker": "HTGC",
+    "name": "Hercules Capital, Inc.",
+    "sector": "Financial Services",
+    "price": 18.91,
+    "yield": 0.09941829719725012,
+    "ttm_dividend": 1.88,
+    "frequency": "Quarterly",
+    "last_div": 0.47,
+    "payments": [
+      {
+        "date": "2025-02-26",
+        "amount": 0.47
+      },
+      {
+        "date": "2025-05-13",
+        "amount": 0.47
+      },
+      {
+        "date": "2025-08-12",
+        "amount": 0.47
+      },
+      {
+        "date": "2025-11-12",
+        "amount": 0.47
+      }
+    ],
+    "currency": "USD"
+  },
+  "TSLX": {
+    "ticker": "TSLX",
+    "name": "Sixth Street Specialty Lending,",
+    "sector": "Financial Services",
+    "price": 22.3,
+    "yield": 0.09192825112107622,
+    "ttm_dividend": 2.05,
+    "frequency": "Quarterly",
+    "last_div": 0.46,
+    "payments": [
+      {
+        "date": "2025-02-28",
+        "amount": 0.07
+      },
+      {
+        "date": "2025-03-14",
+        "amount": 0.46
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 0.06
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.46
+      },
+      {
+        "date": "2025-08-29",
+        "amount": 0.05
+      },
+      {
+        "date": "2025-09-15",
+        "amount": 0.46
+      },
+      {
+        "date": "2025-11-28",
+        "amount": 0.03
+      },
+      {
+        "date": "2025-12-15",
+        "amount": 0.46
+      }
+    ],
+    "currency": "USD"
+  },
+  "PSEC": {
+    "ticker": "PSEC",
+    "name": "Prospect Capital Corporation",
+    "sector": "Financial Services",
+    "price": 2.86,
+    "yield": 0.1888111888111888,
+    "ttm_dividend": 0.5399999999999999,
+    "frequency": "Monthly",
+    "last_div": 0.045,
+    "payments": [
+      {
+        "date": "2025-01-29",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-02-26",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-03-27",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-04-28",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-05-28",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-07-29",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-08-27",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-09-26",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-10-29",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-11-25",
+        "amount": 0.045
+      },
+      {
+        "date": "2025-12-29",
+        "amount": 0.045
+      }
+    ],
+    "currency": "USD"
+  },
+  "BXSL": {
+    "ticker": "BXSL",
+    "name": "Blackstone Secured Lending Fund",
+    "sector": "Financial Services",
+    "price": 26.51,
+    "yield": 0.11618257261410787,
+    "ttm_dividend": 3.08,
+    "frequency": "Quarterly",
+    "last_div": 0.77,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 0.77
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.77
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.77
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.77
+      }
+    ],
+    "currency": "USD"
+  },
+  "TCPC": {
+    "ticker": "TCPC",
+    "name": "BlackRock TCP Capital Corp.",
+    "sector": "Financial Services",
+    "price": 5.79,
+    "yield": 0.1934369602763385,
+    "ttm_dividend": 1.1199999999999999,
+    "frequency": "Quarterly",
+    "last_div": 0.25,
+    "payments": [
+      {
+        "date": "2025-03-17",
+        "amount": 0.29
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.29
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 0.29
+      },
+      {
+        "date": "2025-12-17",
+        "amount": 0.25
+      }
+    ],
+    "currency": "USD"
+  },
+  "NMFC": {
+    "ticker": "NMFC",
+    "name": "New Mountain Finance Corporatio",
+    "sector": "Financial Services",
+    "price": 9.12,
+    "yield": 0.14035087719298248,
+    "ttm_dividend": 1.28,
+    "frequency": "Quarterly",
+    "last_div": 0.32,
+    "payments": [
+      {
+        "date": "2025-03-17",
+        "amount": 0.32
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.32
+      },
+      {
+        "date": "2025-09-16",
+        "amount": 0.32
+      },
+      {
+        "date": "2025-12-17",
+        "amount": 0.32
+      }
+    ],
+    "currency": "USD"
+  },
+  "KO": {
+    "ticker": "KO",
+    "name": "Coca-Cola Company (The)",
+    "sector": "Consumer Defensive",
+    "price": 70.44,
+    "yield": 0.028960817717206135,
+    "ttm_dividend": 2.04,
+    "frequency": "Quarterly",
+    "last_div": 0.51,
+    "payments": [
+      {
+        "date": "2025-03-14",
+        "amount": 0.51
+      },
+      {
+        "date": "2025-06-13",
+        "amount": 0.51
+      },
+      {
+        "date": "2025-09-15",
+        "amount": 0.51
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.51
+      }
+    ],
+    "currency": "USD"
+  },
+  "PEP": {
+    "ticker": "PEP",
+    "name": "Pepsico, Inc.",
+    "sector": "Consumer Defensive",
+    "price": 146.32,
+    "yield": 0.03843630399125206,
+    "ttm_dividend": 5.6240000000000006,
+    "frequency": "Quarterly",
+    "last_div": 1.423,
+    "payments": [
+      {
+        "date": "2025-03-07",
+        "amount": 1.355
+      },
+      {
+        "date": "2025-06-06",
+        "amount": 1.423
+      },
+      {
+        "date": "2025-09-05",
+        "amount": 1.423
+      },
+      {
+        "date": "2025-12-05",
+        "amount": 1.423
+      }
+    ],
+    "currency": "USD"
+  },
+  "PG": {
+    "ticker": "PG",
+    "name": "Procter & Gamble Company (The)",
+    "sector": "Consumer Defensive",
+    "price": 144.53,
+    "yield": 0.02890749325399571,
+    "ttm_dividend": 4.178,
+    "frequency": "Quarterly",
+    "last_div": 1.057,
+    "payments": [
+      {
+        "date": "2025-01-24",
+        "amount": 1.007
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 1.057
+      },
+      {
+        "date": "2025-07-18",
+        "amount": 1.057
+      },
+      {
+        "date": "2025-10-24",
+        "amount": 1.057
+      }
+    ],
+    "currency": "USD"
+  },
+  "KMB": {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark Corporation",
+    "sector": "Consumer Defensive",
+    "price": 99.32,
+    "yield": 0.05074506645187274,
+    "ttm_dividend": 5.04,
+    "frequency": "Quarterly",
+    "last_div": 1.26,
+    "payments": [
+      {
+        "date": "2025-03-07",
+        "amount": 1.26
+      },
+      {
+        "date": "2025-06-06",
+        "amount": 1.26
+      },
+      {
+        "date": "2025-09-05",
+        "amount": 1.26
+      },
+      {
+        "date": "2025-12-05",
+        "amount": 1.26
+      }
+    ],
+    "currency": "USD"
+  },
+  "CL": {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive Company",
+    "sector": "Consumer Defensive",
+    "price": 84.52,
+    "yield": 0.024372929484145767,
+    "ttm_dividend": 2.06,
+    "frequency": "Quarterly",
+    "last_div": 0.52,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 0.5
+      },
+      {
+        "date": "2025-04-17",
+        "amount": 0.52
+      },
+      {
+        "date": "2025-07-18",
+        "amount": 0.52
+      },
+      {
+        "date": "2025-10-17",
+        "amount": 0.52
+      }
+    ],
+    "currency": "USD"
+  },
+  "GIS": {
+    "ticker": "GIS",
+    "name": "General Mills, Inc.",
+    "sector": "Consumer Defensive",
+    "price": 44.51,
+    "yield": 0.05459447315210065,
+    "ttm_dividend": 2.4299999999999997,
+    "frequency": "Quarterly",
+    "last_div": 0.61,
+    "payments": [
+      {
+        "date": "2025-04-10",
+        "amount": 0.6
+      },
+      {
+        "date": "2025-07-10",
+        "amount": 0.61
+      },
+      {
+        "date": "2025-10-10",
+        "amount": 0.61
+      },
+      {
+        "date": "2026-01-09",
+        "amount": 0.61
+      }
+    ],
+    "currency": "USD"
+  },
+  "K": {
+    "ticker": "K",
+    "name": "Kellanova",
+    "sector": "Consumer Defensive",
+    "price": 83.44,
+    "yield": 0.027564717162032598,
+    "ttm_dividend": 2.3,
+    "frequency": "Quarterly",
+    "last_div": 0.58,
+    "payments": [
+      {
+        "date": "2025-03-03",
+        "amount": 0.57
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.57
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.58
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.58
+      }
+    ],
+    "currency": "USD"
+  },
+  "SJM": {
+    "ticker": "SJM",
+    "name": "The J.M. Smucker Company",
+    "sector": "Consumer Defensive",
+    "price": 102.05,
+    "yield": 0.04272415482606566,
+    "ttm_dividend": 4.36,
+    "frequency": "Quarterly",
+    "last_div": 1.1,
+    "payments": [
+      {
+        "date": "2025-02-14",
+        "amount": 1.08
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 1.08
+      },
+      {
+        "date": "2025-08-15",
+        "amount": 1.1
+      },
+      {
+        "date": "2025-11-14",
+        "amount": 1.1
+      }
+    ],
+    "currency": "USD"
+  },
+  "HSY": {
+    "ticker": "HSY",
+    "name": "The Hershey Company",
+    "sector": "Consumer Defensive",
+    "price": 197.76,
+    "yield": 0.02771035598705502,
+    "ttm_dividend": 5.48,
+    "frequency": "Quarterly",
+    "last_div": 1.37,
+    "payments": [
+      {
+        "date": "2025-02-14",
+        "amount": 1.37
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 1.37
+      },
+      {
+        "date": "2025-08-15",
+        "amount": 1.37
+      },
+      {
+        "date": "2025-11-17",
+        "amount": 1.37
+      }
+    ],
+    "currency": "USD"
+  },
+  "MKC": {
+    "ticker": "MKC",
+    "name": "McCormick & Company, Incorporat",
+    "sector": "Consumer Defensive",
+    "price": 67.04,
+    "yield": 0.027297136038186155,
+    "ttm_dividend": 1.83,
+    "frequency": "Quarterly",
+    "last_div": 0.48,
+    "payments": [
+      {
+        "date": "2025-04-07",
+        "amount": 0.45
+      },
+      {
+        "date": "2025-07-07",
+        "amount": 0.45
+      },
+      {
+        "date": "2025-10-14",
+        "amount": 0.45
+      },
+      {
+        "date": "2025-12-29",
+        "amount": 0.48
+      }
+    ],
+    "currency": "USD"
+  },
+  "CAG": {
+    "ticker": "CAG",
+    "name": "ConAgra Brands, Inc.",
+    "sector": "Consumer Defensive",
+    "price": 16.96,
+    "yield": 0.08254716981132075,
+    "ttm_dividend": 1.4,
+    "frequency": "Quarterly",
+    "last_div": 0.35,
+    "payments": [
+      {
+        "date": "2025-01-27",
+        "amount": 0.35
+      },
+      {
+        "date": "2025-04-28",
+        "amount": 0.35
+      },
+      {
+        "date": "2025-07-30",
+        "amount": 0.35
+      },
+      {
+        "date": "2025-10-30",
+        "amount": 0.35
+      }
+    ],
+    "currency": "USD"
+  },
+  "CPB": {
+    "ticker": "CPB",
+    "name": "The Campbell's Company",
+    "sector": "Consumer Defensive",
+    "price": 26.08,
+    "yield": 0.05981595092024541,
+    "ttm_dividend": 1.56,
+    "frequency": "Quarterly",
+    "last_div": 0.39,
+    "payments": [
+      {
+        "date": "2025-04-03",
+        "amount": 0.39
+      },
+      {
+        "date": "2025-07-03",
+        "amount": 0.39
+      },
+      {
+        "date": "2025-10-02",
+        "amount": 0.39
+      },
+      {
+        "date": "2026-01-08",
+        "amount": 0.39
+      }
+    ],
+    "currency": "USD"
+  },
+  "JNJ": {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "sector": "Healthcare",
+    "price": 218.66,
+    "yield": 0.023506814232141224,
+    "ttm_dividend": 5.14,
+    "frequency": "Quarterly",
+    "last_div": 1.3,
+    "payments": [
+      {
+        "date": "2025-02-18",
+        "amount": 1.24
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 1.3
+      },
+      {
+        "date": "2025-08-26",
+        "amount": 1.3
+      },
+      {
+        "date": "2025-11-25",
+        "amount": 1.3
+      }
+    ],
+    "currency": "USD"
+  },
+  "ABT": {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "sector": "Healthcare",
+    "price": 121.76,
+    "yield": 0.024556504599211562,
+    "ttm_dividend": 2.9899999999999998,
+    "frequency": "Quarterly",
+    "last_div": 0.63,
+    "payments": [
+      {
+        "date": "2025-01-15",
+        "amount": 0.59
+      },
+      {
+        "date": "2025-04-15",
+        "amount": 0.59
+      },
+      {
+        "date": "2025-07-15",
+        "amount": 0.59
+      },
+      {
+        "date": "2025-10-15",
+        "amount": 0.59
+      },
+      {
+        "date": "2026-01-15",
+        "amount": 0.63
+      }
+    ],
+    "currency": "USD"
+  },
+  "ABBV": {
+    "ticker": "ABBV",
+    "name": "AbbVie Inc.",
+    "sector": "Healthcare",
+    "price": 214.35,
+    "yield": 0.03867506414742244,
+    "ttm_dividend": 8.29,
+    "frequency": "Quarterly",
+    "last_div": 1.73,
+    "payments": [
+      {
+        "date": "2025-01-15",
+        "amount": 1.64
+      },
+      {
+        "date": "2025-04-15",
+        "amount": 1.64
+      },
+      {
+        "date": "2025-07-15",
+        "amount": 1.64
+      },
+      {
+        "date": "2025-10-15",
+        "amount": 1.64
+      },
+      {
+        "date": "2026-01-16",
+        "amount": 1.73
+      }
+    ],
+    "currency": "USD"
+  },
+  "PFE": {
+    "ticker": "PFE",
+    "name": "Pfizer, Inc.",
+    "sector": "Healthcare",
+    "price": 25.65,
+    "yield": 0.06705653021442495,
+    "ttm_dividend": 1.72,
+    "frequency": "Quarterly",
+    "last_div": 0.43,
+    "payments": [
+      {
+        "date": "2025-01-24",
+        "amount": 0.43
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 0.43
+      },
+      {
+        "date": "2025-07-25",
+        "amount": 0.43
+      },
+      {
+        "date": "2025-11-07",
+        "amount": 0.43
+      }
+    ],
+    "currency": "USD"
+  },
+  "MRK": {
+    "ticker": "MRK",
+    "name": "Merck & Company, Inc.",
+    "sector": "Healthcare",
+    "price": 108.83,
+    "yield": 0.03013874850684554,
+    "ttm_dividend": 3.2800000000000002,
+    "frequency": "Quarterly",
+    "last_div": 0.85,
+    "payments": [
+      {
+        "date": "2025-03-17",
+        "amount": 0.81
+      },
+      {
+        "date": "2025-06-16",
+        "amount": 0.81
+      },
+      {
+        "date": "2025-09-15",
+        "amount": 0.81
+      },
+      {
+        "date": "2025-12-15",
+        "amount": 0.85
+      }
+    ],
+    "currency": "USD"
+  },
+  "BMY": {
+    "ticker": "BMY",
+    "name": "Bristol-Myers Squibb Company",
+    "sector": "Healthcare",
+    "price": 55.26,
+    "yield": 0.04505971769815418,
+    "ttm_dividend": 2.4899999999999998,
+    "frequency": "Quarterly",
+    "last_div": 0.63,
+    "payments": [
+      {
+        "date": "2025-04-04",
+        "amount": 0.62
+      },
+      {
+        "date": "2025-07-03",
+        "amount": 0.62
+      },
+      {
+        "date": "2025-10-03",
+        "amount": 0.62
+      },
+      {
+        "date": "2026-01-02",
+        "amount": 0.63
+      }
+    ],
+    "currency": "USD"
+  },
+  "LLY": {
+    "ticker": "LLY",
+    "name": "Eli Lilly and Company",
+    "sector": "Healthcare",
+    "price": 1038.4,
+    "yield": 0.005778120184899846,
+    "ttm_dividend": 6.0,
+    "frequency": "Quarterly",
+    "last_div": 1.5,
+    "payments": [
+      {
+        "date": "2025-02-14",
+        "amount": 1.5
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 1.5
+      },
+      {
+        "date": "2025-08-15",
+        "amount": 1.5
+      },
+      {
+        "date": "2025-11-14",
+        "amount": 1.5
+      }
+    ],
+    "currency": "USD"
+  },
+  "AMGN": {
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "sector": "Healthcare",
+    "price": 330.41,
+    "yield": 0.02881268726733452,
+    "ttm_dividend": 9.52,
+    "frequency": "Quarterly",
+    "last_div": 2.38,
+    "payments": [
+      {
+        "date": "2025-02-14",
+        "amount": 2.38
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 2.38
+      },
+      {
+        "date": "2025-08-22",
+        "amount": 2.38
+      },
+      {
+        "date": "2025-11-21",
+        "amount": 2.38
+      }
+    ],
+    "currency": "USD"
+  },
+  "GILD": {
+    "ticker": "GILD",
+    "name": "Gilead Sciences, Inc.",
+    "sector": "Healthcare",
+    "price": 124.91,
+    "yield": 0.02529821471459451,
+    "ttm_dividend": 3.16,
+    "frequency": "Quarterly",
+    "last_div": 0.79,
+    "payments": [
+      {
+        "date": "2025-03-14",
+        "amount": 0.79
+      },
+      {
+        "date": "2025-06-13",
+        "amount": 0.79
+      },
+      {
+        "date": "2025-09-15",
+        "amount": 0.79
+      },
+      {
+        "date": "2025-12-15",
+        "amount": 0.79
+      }
+    ],
+    "currency": "USD"
+  },
+  "JPM": {
+    "ticker": "JPM",
+    "name": "JP Morgan Chase & Co.",
+    "sector": "Financial Services",
+    "price": 312.47,
+    "yield": 0.01856178193106538,
+    "ttm_dividend": 5.8,
+    "frequency": "Quarterly",
+    "last_div": 1.5,
+    "payments": [
+      {
+        "date": "2025-04-04",
+        "amount": 1.4
+      },
+      {
+        "date": "2025-07-03",
+        "amount": 1.4
+      },
+      {
+        "date": "2025-10-06",
+        "amount": 1.5
+      },
+      {
+        "date": "2026-01-06",
+        "amount": 1.5
+      }
+    ],
+    "currency": "USD"
+  },
+  "BAC": {
+    "ticker": "BAC",
+    "name": "Bank of America Corporation",
+    "sector": "Financial Services",
+    "price": 52.97,
+    "yield": 0.020388899377005856,
+    "ttm_dividend": 1.08,
+    "frequency": "Quarterly",
+    "last_div": 0.28,
+    "payments": [
+      {
+        "date": "2025-03-07",
+        "amount": 0.26
+      },
+      {
+        "date": "2025-06-06",
+        "amount": 0.26
+      },
+      {
+        "date": "2025-09-05",
+        "amount": 0.28
+      },
+      {
+        "date": "2025-12-05",
+        "amount": 0.28
+      }
+    ],
+    "currency": "USD"
+  },
+  "WFC": {
+    "ticker": "WFC",
+    "name": "Wells Fargo & Company",
+    "sector": "Financial Services",
+    "price": 88.38,
+    "yield": 0.01923512106811496,
+    "ttm_dividend": 1.7,
+    "frequency": "Quarterly",
+    "last_div": 0.45,
+    "payments": [
+      {
+        "date": "2025-02-07",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-08-08",
+        "amount": 0.45
+      },
+      {
+        "date": "2025-11-07",
+        "amount": 0.45
+      }
+    ],
+    "currency": "USD"
+  },
+  "GS": {
+    "ticker": "GS",
+    "name": "Goldman Sachs Group, Inc. (The)",
+    "sector": "Financial Services",
+    "price": 962.0,
+    "yield": 0.014553014553014554,
+    "ttm_dividend": 14.0,
+    "frequency": "Quarterly",
+    "last_div": 4.0,
+    "payments": [
+      {
+        "date": "2025-02-28",
+        "amount": 3.0
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 3.0
+      },
+      {
+        "date": "2025-08-29",
+        "amount": 4.0
+      },
+      {
+        "date": "2025-12-02",
+        "amount": 4.0
+      }
+    ],
+    "currency": "USD"
+  },
+  "MS": {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "sector": "Financial Services",
+    "price": 189.09,
+    "yield": 0.02036067481093659,
+    "ttm_dividend": 3.85,
+    "frequency": "Quarterly",
+    "last_div": 1.0,
+    "payments": [
+      {
+        "date": "2025-01-31",
+        "amount": 0.925
+      },
+      {
+        "date": "2025-04-30",
+        "amount": 0.925
+      },
+      {
+        "date": "2025-07-31",
+        "amount": 1.0
+      },
+      {
+        "date": "2025-10-31",
+        "amount": 1.0
+      }
+    ],
+    "currency": "USD"
+  },
+  "USB": {
+    "ticker": "USB",
+    "name": "U.S. Bancorp",
+    "sector": "Financial Services",
+    "price": 54.4,
+    "yield": 0.0375,
+    "ttm_dividend": 2.04,
+    "frequency": "Quarterly",
+    "last_div": 0.52,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 0.5
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 0.5
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 0.52
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 0.52
+      }
+    ],
+    "currency": "USD"
+  },
+  "PNC": {
+    "ticker": "PNC",
+    "name": "PNC Financial Services Group, I",
+    "sector": "Financial Services",
+    "price": 223.18,
+    "yield": 0.02957254234250381,
+    "ttm_dividend": 6.6000000000000005,
+    "frequency": "Quarterly",
+    "last_div": 1.7,
+    "payments": [
+      {
+        "date": "2025-01-15",
+        "amount": 1.6
+      },
+      {
+        "date": "2025-04-16",
+        "amount": 1.6
+      },
+      {
+        "date": "2025-07-15",
+        "amount": 1.7
+      },
+      {
+        "date": "2025-10-14",
+        "amount": 1.7
+      }
+    ],
+    "currency": "USD"
+  },
+  "MTB": {
+    "ticker": "MTB",
+    "name": "M&T Bank Corporation",
+    "sector": "Financial Services",
+    "price": 212.28,
+    "yield": 0.026851328434143586,
+    "ttm_dividend": 5.7,
+    "frequency": "Quarterly",
+    "last_div": 1.5,
+    "payments": [
+      {
+        "date": "2025-03-03",
+        "amount": 1.35
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 1.35
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 1.5
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 1.5
+      }
+    ],
+    "currency": "USD"
+  },
+  "AXP": {
+    "ticker": "AXP",
+    "name": "American Express Company",
+    "sector": "Financial Services",
+    "price": 364.79,
+    "yield": 0.008991474546999643,
+    "ttm_dividend": 3.28,
+    "frequency": "Quarterly",
+    "last_div": 0.82,
+    "payments": [
+      {
+        "date": "2025-04-04",
+        "amount": 0.82
+      },
+      {
+        "date": "2025-07-03",
+        "amount": 0.82
+      },
+      {
+        "date": "2025-10-10",
+        "amount": 0.82
+      },
+      {
+        "date": "2026-01-02",
+        "amount": 0.82
+      }
+    ],
+    "currency": "USD"
+  },
+  "BLK": {
+    "ticker": "BLK",
+    "name": "BlackRock, Inc.",
+    "sector": "Financial Services",
+    "price": 1163.17,
+    "yield": 0.0179165556195569,
+    "ttm_dividend": 20.84,
+    "frequency": "Quarterly",
+    "last_div": 5.21,
+    "payments": [
+      {
+        "date": "2025-03-07",
+        "amount": 5.21
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 5.21
+      },
+      {
+        "date": "2025-09-05",
+        "amount": 5.21
+      },
+      {
+        "date": "2025-12-05",
+        "amount": 5.21
+      }
+    ],
+    "currency": "USD"
+  },
+  "ALL": {
+    "ticker": "ALL",
+    "name": "Allstate Corporation (The)",
+    "sector": "Financial Services",
+    "price": 192.28,
+    "yield": 0.02080299563137092,
+    "ttm_dividend": 4.0,
+    "frequency": "Quarterly",
+    "last_div": 1.0,
+    "payments": [
+      {
+        "date": "2025-03-10",
+        "amount": 1.0
+      },
+      {
+        "date": "2025-06-09",
+        "amount": 1.0
+      },
+      {
+        "date": "2025-08-29",
+        "amount": 1.0
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 1.0
+      }
+    ],
+    "currency": "USD"
+  },
+  "CAT": {
+    "ticker": "CAT",
+    "name": "Caterpillar, Inc.",
+    "sector": "Industrials",
+    "price": 646.89,
+    "yield": 0.00902780998315015,
+    "ttm_dividend": 5.84,
+    "frequency": "Quarterly",
+    "last_div": 1.51,
+    "payments": [
+      {
+        "date": "2025-01-21",
+        "amount": 1.41
+      },
+      {
+        "date": "2025-04-21",
+        "amount": 1.41
+      },
+      {
+        "date": "2025-07-21",
+        "amount": 1.51
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 1.51
+      }
+    ],
+    "currency": "USD"
+  },
+  "DE": {
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "sector": "Industrials",
+    "price": 514.4,
+    "yield": 0.012597200622083983,
+    "ttm_dividend": 6.48,
+    "frequency": "Quarterly",
+    "last_div": 1.62,
+    "payments": [
+      {
+        "date": "2025-03-31",
+        "amount": 1.62
+      },
+      {
+        "date": "2025-06-30",
+        "amount": 1.62
+      },
+      {
+        "date": "2025-09-30",
+        "amount": 1.62
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 1.62
+      }
+    ],
+    "currency": "USD"
+  },
+  "UNP": {
+    "ticker": "UNP",
+    "name": "Union Pacific Corporation",
+    "sector": "Industrials",
+    "price": 229.49,
+    "yield": 0.023704736589829623,
+    "ttm_dividend": 5.44,
+    "frequency": "Quarterly",
+    "last_div": 1.38,
+    "payments": [
+      {
+        "date": "2025-02-28",
+        "amount": 1.34
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 1.34
+      },
+      {
+        "date": "2025-08-29",
+        "amount": 1.38
+      },
+      {
+        "date": "2025-12-05",
+        "amount": 1.38
+      }
+    ],
+    "currency": "USD"
+  },
+  "CSX": {
+    "ticker": "CSX",
+    "name": "CSX Corporation",
+    "sector": "Industrials",
+    "price": 36.25,
+    "yield": 0.014344827586206896,
+    "ttm_dividend": 0.52,
+    "frequency": "Quarterly",
+    "last_div": 0.13,
+    "payments": [
+      {
+        "date": "2025-02-28",
+        "amount": 0.13
+      },
+      {
+        "date": "2025-05-30",
+        "amount": 0.13
+      },
+      {
+        "date": "2025-08-29",
+        "amount": 0.13
+      },
+      {
+        "date": "2025-11-28",
+        "amount": 0.13
+      }
+    ],
+    "currency": "USD"
+  },
+  "LMT": {
+    "ticker": "LMT",
+    "name": "Lockheed Martin Corporation",
+    "sector": "Industrials",
+    "price": 582.43,
+    "yield": 0.022921209415723776,
+    "ttm_dividend": 13.349999999999998,
+    "frequency": "Quarterly",
+    "last_div": 3.45,
+    "payments": [
+      {
+        "date": "2025-03-03",
+        "amount": 3.3
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 3.3
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 3.3
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 3.45
+      }
+    ],
+    "currency": "USD"
+  },
+  "NOC": {
+    "ticker": "NOC",
+    "name": "Northrop Grumman Corporation",
+    "sector": "Industrials",
+    "price": 666.9,
+    "yield": 0.013480281901334533,
+    "ttm_dividend": 8.99,
+    "frequency": "Quarterly",
+    "last_div": 2.31,
+    "payments": [
+      {
+        "date": "2025-03-03",
+        "amount": 2.06
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 2.31
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 2.31
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 2.31
+      }
+    ],
+    "currency": "USD"
+  },
+  "RTX": {
+    "ticker": "RTX",
+    "name": "RTX Corporation",
+    "sector": "Industrials",
+    "price": 201.92,
+    "yield": 0.013223058637083996,
+    "ttm_dividend": 2.6700000000000004,
+    "frequency": "Quarterly",
+    "last_div": 0.68,
+    "payments": [
+      {
+        "date": "2025-02-21",
+        "amount": 0.63
+      },
+      {
+        "date": "2025-05-23",
+        "amount": 0.68
+      },
+      {
+        "date": "2025-08-15",
+        "amount": 0.68
+      },
+      {
+        "date": "2025-11-21",
+        "amount": 0.68
+      }
+    ],
+    "currency": "USD"
+  },
+  "GD": {
+    "ticker": "GD",
+    "name": "General Dynamics Corporation",
+    "sector": "Industrials",
+    "price": 367.38,
+    "yield": 0.020197071152485164,
+    "ttm_dividend": 7.42,
+    "frequency": "Quarterly",
+    "last_div": 1.5,
+    "payments": [
+      {
+        "date": "2025-01-17",
+        "amount": 1.42
+      },
+      {
+        "date": "2025-04-11",
+        "amount": 1.5
+      },
+      {
+        "date": "2025-07-03",
+        "amount": 1.5
+      },
+      {
+        "date": "2025-10-10",
+        "amount": 1.5
+      },
+      {
+        "date": "2026-01-16",
+        "amount": 1.5
+      }
+    ],
+    "currency": "USD"
+  },
+  "EMR": {
+    "ticker": "EMR",
+    "name": "Emerson Electric Company",
+    "sector": "Industrials",
+    "price": 149.46,
+    "yield": 0.014311521477318347,
+    "ttm_dividend": 2.1390000000000002,
+    "frequency": "Quarterly",
+    "last_div": 0.555,
+    "payments": [
+      {
+        "date": "2025-02-14",
+        "amount": 0.528
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 0.528
+      },
+      {
+        "date": "2025-08-15",
+        "amount": 0.528
+      },
+      {
+        "date": "2025-11-14",
+        "amount": 0.555
+      }
+    ],
+    "currency": "USD"
+  },
+  "HON": {
+    "ticker": "HON",
+    "name": "Honeywell International Inc.",
+    "sector": "Industrials",
+    "price": 219.39,
+    "yield": 0.01998768859109349,
+    "ttm_dividend": 4.385099,
+    "frequency": "Quarterly",
+    "last_div": 1.19,
+    "payments": [
+      {
+        "date": "2025-02-28",
+        "amount": 1.065033
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 1.065033
+      },
+      {
+        "date": "2025-08-15",
+        "amount": 1.065033
+      },
+      {
+        "date": "2025-11-14",
+        "amount": 1.19
+      }
+    ],
+    "currency": "USD"
+  },
+  "UPS": {
+    "ticker": "UPS",
+    "name": "United Parcel Service, Inc.",
+    "sector": "Industrials",
+    "price": 106.91,
+    "yield": 0.0613600224487887,
+    "ttm_dividend": 6.56,
+    "frequency": "Quarterly",
+    "last_div": 1.64,
+    "payments": [
+      {
+        "date": "2025-02-18",
+        "amount": 1.64
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 1.64
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 1.64
+      },
+      {
+        "date": "2025-11-17",
+        "amount": 1.64
+      }
+    ],
+    "currency": "USD"
+  },
+  "FDX": {
+    "ticker": "FDX",
+    "name": "FedEx Corporation",
+    "sector": "Industrials",
+    "price": 308.18,
+    "yield": 0.018593030047374913,
+    "ttm_dividend": 5.73,
+    "frequency": "Quarterly",
+    "last_div": 1.45,
+    "payments": [
+      {
+        "date": "2025-03-10",
+        "amount": 1.38
+      },
+      {
+        "date": "2025-06-23",
+        "amount": 1.45
+      },
+      {
+        "date": "2025-09-08",
+        "amount": 1.45
+      },
+      {
+        "date": "2025-12-15",
+        "amount": 1.45
+      }
+    ],
+    "currency": "USD"
+  },
+  "MSFT": {
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "sector": "Technology",
+    "price": 459.86,
+    "yield": 0.007393554560083503,
+    "ttm_dividend": 3.4,
+    "frequency": "Quarterly",
+    "last_div": 0.91,
+    "payments": [
+      {
+        "date": "2025-02-20",
+        "amount": 0.83
+      },
+      {
+        "date": "2025-05-15",
+        "amount": 0.83
+      },
+      {
+        "date": "2025-08-21",
+        "amount": 0.83
+      },
+      {
+        "date": "2025-11-20",
+        "amount": 0.91
+      }
+    ],
+    "currency": "USD"
+  },
+  "AAPL": {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "sector": "Technology",
+    "price": 255.53,
+    "yield": 0.0040308378663953355,
+    "ttm_dividend": 1.03,
+    "frequency": "Quarterly",
+    "last_div": 0.26,
+    "payments": [
+      {
+        "date": "2025-02-10",
+        "amount": 0.25
+      },
+      {
+        "date": "2025-05-12",
+        "amount": 0.26
+      },
+      {
+        "date": "2025-08-11",
+        "amount": 0.26
+      },
+      {
+        "date": "2025-11-10",
+        "amount": 0.26
+      }
+    ],
+    "currency": "USD"
+  },
+  "AVGO": {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "sector": "Technology",
+    "price": 351.71,
+    "yield": 0.0068806687327627875,
+    "ttm_dividend": 2.42,
+    "frequency": "Quarterly",
+    "last_div": 0.65,
+    "payments": [
+      {
+        "date": "2025-03-20",
+        "amount": 0.59
+      },
+      {
+        "date": "2025-06-20",
+        "amount": 0.59
+      },
+      {
+        "date": "2025-09-22",
+        "amount": 0.59
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 0.65
+      }
+    ],
+    "currency": "USD"
+  },
+  "TXN": {
+    "ticker": "TXN",
+    "name": "Texas Instruments Incorporated",
+    "sector": "Technology",
+    "price": 191.58,
+    "yield": 0.02870863346904687,
+    "ttm_dividend": 5.5,
+    "frequency": "Quarterly",
+    "last_div": 1.42,
+    "payments": [
+      {
+        "date": "2025-01-31",
+        "amount": 1.36
+      },
+      {
+        "date": "2025-04-30",
+        "amount": 1.36
+      },
+      {
+        "date": "2025-07-31",
+        "amount": 1.36
+      },
+      {
+        "date": "2025-10-31",
+        "amount": 1.42
+      }
+    ],
+    "currency": "USD"
+  },
+  "QCOM": {
+    "ticker": "QCOM",
+    "name": "QUALCOMM Incorporated",
+    "sector": "Technology",
+    "price": 159.42,
+    "yield": 0.02208004014552754,
+    "ttm_dividend": 3.52,
+    "frequency": "Quarterly",
+    "last_div": 0.89,
+    "payments": [
+      {
+        "date": "2025-03-06",
+        "amount": 0.85
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 0.89
+      },
+      {
+        "date": "2025-09-04",
+        "amount": 0.89
+      },
+      {
+        "date": "2025-12-04",
+        "amount": 0.89
+      }
+    ],
+    "currency": "USD"
+  },
+  "ORCL": {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "sector": "Technology",
+    "price": 191.09,
+    "yield": 0.010466272437071537,
+    "ttm_dividend": 2.0,
+    "frequency": "Quarterly",
+    "last_div": 0.5,
+    "payments": [
+      {
+        "date": "2025-04-10",
+        "amount": 0.5
+      },
+      {
+        "date": "2025-07-10",
+        "amount": 0.5
+      },
+      {
+        "date": "2025-10-09",
+        "amount": 0.5
+      },
+      {
+        "date": "2026-01-09",
+        "amount": 0.5
+      }
+    ],
+    "currency": "USD"
+  },
+  "CSCO": {
+    "ticker": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "sector": "Technology",
+    "price": 75.19,
+    "yield": 0.021811411091900518,
+    "ttm_dividend": 1.64,
+    "frequency": "Quarterly",
+    "last_div": 0.41,
+    "payments": [
+      {
+        "date": "2025-04-03",
+        "amount": 0.41
+      },
+      {
+        "date": "2025-07-03",
+        "amount": 0.41
+      },
+      {
+        "date": "2025-10-03",
+        "amount": 0.41
+      },
+      {
+        "date": "2026-01-02",
+        "amount": 0.41
+      }
+    ],
+    "currency": "USD"
+  },
+  "IBM": {
+    "ticker": "IBM",
+    "name": "International Business Machines",
+    "sector": "Technology",
+    "price": 305.67,
+    "yield": 0.021951778061307943,
+    "ttm_dividend": 6.709999999999999,
+    "frequency": "Quarterly",
+    "last_div": 1.68,
+    "payments": [
+      {
+        "date": "2025-02-10",
+        "amount": 1.67
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 1.68
+      },
+      {
+        "date": "2025-08-08",
+        "amount": 1.68
+      },
+      {
+        "date": "2025-11-10",
+        "amount": 1.68
+      }
+    ],
+    "currency": "USD"
+  },
+  "INTC": {
+    "ticker": "INTC",
+    "name": "Intel Corporation",
+    "sector": "Technology",
+    "price": 46.96,
+    "yield": 0.0,
+    "ttm_dividend": 0.0,
+    "frequency": "Unknown",
+    "last_div": 0,
+    "payments": [],
+    "currency": "USD"
+  },
+  "HPQ": {
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "sector": "Technology",
+    "price": 20.37,
+    "yield": 0.057290132547864504,
+    "ttm_dividend": 1.167,
+    "frequency": "Quarterly",
+    "last_div": 0.3,
+    "payments": [
+      {
+        "date": "2025-03-12",
+        "amount": 0.289
+      },
+      {
+        "date": "2025-06-11",
+        "amount": 0.289
+      },
+      {
+        "date": "2025-09-10",
+        "amount": 0.289
+      },
+      {
+        "date": "2025-12-11",
+        "amount": 0.3
+      }
+    ],
+    "currency": "USD"
+  },
+  "XOM": {
+    "ticker": "XOM",
+    "name": "Exxon Mobil Corporation",
+    "sector": "Energy",
+    "price": 129.89,
+    "yield": 0.030795288320886908,
+    "ttm_dividend": 4.0,
+    "frequency": "Quarterly",
+    "last_div": 1.03,
+    "payments": [
+      {
+        "date": "2025-02-12",
+        "amount": 0.99
+      },
+      {
+        "date": "2025-05-15",
+        "amount": 0.99
+      },
+      {
+        "date": "2025-08-15",
+        "amount": 0.99
+      },
+      {
+        "date": "2025-11-14",
+        "amount": 1.03
+      }
+    ],
+    "currency": "USD"
+  },
+  "CVX": {
+    "ticker": "CVX",
+    "name": "Chevron Corporation",
+    "sector": "Energy",
+    "price": 166.26,
+    "yield": 0.04114038253338145,
+    "ttm_dividend": 6.84,
+    "frequency": "Quarterly",
+    "last_div": 1.71,
+    "payments": [
+      {
+        "date": "2025-02-14",
+        "amount": 1.71
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 1.71
+      },
+      {
+        "date": "2025-08-19",
+        "amount": 1.71
+      },
+      {
+        "date": "2025-11-18",
+        "amount": 1.71
+      }
+    ],
+    "currency": "USD"
+  },
+  "COP": {
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "sector": "Energy",
+    "price": 98.19,
+    "yield": 0.03238619003971891,
+    "ttm_dividend": 3.1799999999999997,
+    "frequency": "Quarterly",
+    "last_div": 0.84,
+    "payments": [
+      {
+        "date": "2025-02-14",
+        "amount": 0.78
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.78
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.78
+      },
+      {
+        "date": "2025-11-17",
+        "amount": 0.84
+      }
+    ],
+    "currency": "USD"
+  },
+  "SLB": {
+    "ticker": "SLB",
+    "name": "SLB Limited",
+    "sector": "Energy",
+    "price": 46.73,
+    "yield": 0.024395463299807404,
+    "ttm_dividend": 1.14,
+    "frequency": "Quarterly",
+    "last_div": 0.285,
+    "payments": [
+      {
+        "date": "2025-02-05",
+        "amount": 0.285
+      },
+      {
+        "date": "2025-06-04",
+        "amount": 0.285
+      },
+      {
+        "date": "2025-09-03",
+        "amount": 0.285
+      },
+      {
+        "date": "2025-12-03",
+        "amount": 0.285
+      }
+    ],
+    "currency": "USD"
+  },
+  "EOG": {
+    "ticker": "EOG",
+    "name": "EOG Resources, Inc.",
+    "sector": "Energy",
+    "price": 105.32,
+    "yield": 0.04714204329661983,
+    "ttm_dividend": 4.965,
+    "frequency": "Quarterly",
+    "last_div": 1.02,
+    "payments": [
+      {
+        "date": "2025-01-17",
+        "amount": 0.975
+      },
+      {
+        "date": "2025-04-16",
+        "amount": 0.975
+      },
+      {
+        "date": "2025-07-17",
+        "amount": 0.975
+      },
+      {
+        "date": "2025-10-17",
+        "amount": 1.02
+      },
+      {
+        "date": "2026-01-16",
+        "amount": 1.02
+      }
+    ],
+    "currency": "USD"
+  },
+  "OKE": {
+    "ticker": "OKE",
+    "name": "ONEOK, Inc.",
+    "sector": "Energy",
+    "price": 74.4,
+    "yield": 0.0553763440860215,
+    "ttm_dividend": 4.12,
+    "frequency": "Quarterly",
+    "last_div": 1.03,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 1.03
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 1.03
+      },
+      {
+        "date": "2025-08-01",
+        "amount": 1.03
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 1.03
+      }
+    ],
+    "currency": "USD"
+  },
+  "KMI": {
+    "ticker": "KMI",
+    "name": "Kinder Morgan, Inc.",
+    "sector": "Energy",
+    "price": 27.96,
+    "yield": 0.041738197424892695,
+    "ttm_dividend": 1.1669999999999998,
+    "frequency": "Quarterly",
+    "last_div": 0.293,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.288
+      },
+      {
+        "date": "2025-04-30",
+        "amount": 0.293
+      },
+      {
+        "date": "2025-07-31",
+        "amount": 0.293
+      },
+      {
+        "date": "2025-11-03",
+        "amount": 0.293
+      }
+    ],
+    "currency": "USD"
+  },
+  "WMB": {
+    "ticker": "WMB",
+    "name": "Williams Companies, Inc. (The)",
+    "sector": "Energy",
+    "price": 61.55,
+    "yield": 0.032493907392363935,
+    "ttm_dividend": 2.0,
+    "frequency": "Quarterly",
+    "last_div": 0.5,
+    "payments": [
+      {
+        "date": "2025-03-14",
+        "amount": 0.5
+      },
+      {
+        "date": "2025-06-13",
+        "amount": 0.5
+      },
+      {
+        "date": "2025-09-12",
+        "amount": 0.5
+      },
+      {
+        "date": "2025-12-12",
+        "amount": 0.5
+      }
+    ],
+    "currency": "USD"
+  },
+  "ET": {
+    "ticker": "ET",
+    "name": "Energy Transfer LP",
+    "sector": "Energy",
+    "price": 17.35,
+    "yield": 0.07585014409221902,
+    "ttm_dividend": 1.316,
+    "frequency": "Quarterly",
+    "last_div": 0.333,
+    "payments": [
+      {
+        "date": "2025-02-07",
+        "amount": 0.325
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 0.328
+      },
+      {
+        "date": "2025-08-08",
+        "amount": 0.33
+      },
+      {
+        "date": "2025-11-07",
+        "amount": 0.333
+      }
+    ],
+    "currency": "USD"
+  },
+  "EPD": {
+    "ticker": "EPD",
+    "name": "Enterprise Products Partners L.",
+    "sector": "Energy",
+    "price": 32.9,
+    "yield": 0.06565349544072949,
+    "ttm_dividend": 2.16,
+    "frequency": "Quarterly",
+    "last_div": 0.545,
+    "payments": [
+      {
+        "date": "2025-01-31",
+        "amount": 0.535
+      },
+      {
+        "date": "2025-04-30",
+        "amount": 0.535
+      },
+      {
+        "date": "2025-07-31",
+        "amount": 0.545
+      },
+      {
+        "date": "2025-10-31",
+        "amount": 0.545
+      }
+    ],
+    "currency": "USD"
+  },
+  "MPLX": {
+    "ticker": "MPLX",
+    "name": "MPLX LP",
+    "sector": "Energy",
+    "price": 56.58,
+    "yield": 0.06977730646871687,
+    "ttm_dividend": 3.948,
+    "frequency": "Quarterly",
+    "last_div": 1.077,
+    "payments": [
+      {
+        "date": "2025-02-03",
+        "amount": 0.957
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 0.957
+      },
+      {
+        "date": "2025-08-08",
+        "amount": 0.957
+      },
+      {
+        "date": "2025-11-07",
+        "amount": 1.077
+      }
+    ],
+    "currency": "USD"
+  },
+  "NEE": {
+    "ticker": "NEE",
+    "name": "NextEra Energy, Inc.",
+    "sector": "Utilities",
+    "price": 83.63,
+    "yield": 0.027119454741121606,
+    "ttm_dividend": 2.268,
+    "frequency": "Quarterly",
+    "last_div": 0.567,
+    "payments": [
+      {
+        "date": "2025-02-28",
+        "amount": 0.567
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.567
+      },
+      {
+        "date": "2025-08-28",
+        "amount": 0.567
+      },
+      {
+        "date": "2025-11-21",
+        "amount": 0.567
+      }
+    ],
+    "currency": "USD"
+  },
+  "DUK": {
+    "ticker": "DUK",
+    "name": "Duke Energy Corporation (Holdin",
+    "sector": "Utilities",
+    "price": 119.22,
+    "yield": 0.0353967455124979,
+    "ttm_dividend": 4.22,
+    "frequency": "Quarterly",
+    "last_div": 1.065,
+    "payments": [
+      {
+        "date": "2025-02-14",
+        "amount": 1.045
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 1.045
+      },
+      {
+        "date": "2025-08-15",
+        "amount": 1.065
+      },
+      {
+        "date": "2025-11-14",
+        "amount": 1.065
+      }
+    ],
+    "currency": "USD"
+  },
+  "SO": {
+    "ticker": "SO",
+    "name": "Southern Company (The)",
+    "sector": "Utilities",
+    "price": 88.9,
+    "yield": 0.03307086614173228,
+    "ttm_dividend": 2.9400000000000004,
+    "frequency": "Quarterly",
+    "last_div": 0.74,
+    "payments": [
+      {
+        "date": "2025-02-18",
+        "amount": 0.72
+      },
+      {
+        "date": "2025-05-19",
+        "amount": 0.74
+      },
+      {
+        "date": "2025-08-18",
+        "amount": 0.74
+      },
+      {
+        "date": "2025-11-17",
+        "amount": 0.74
+      }
+    ],
+    "currency": "USD"
+  },
+  "AEP": {
+    "ticker": "AEP",
+    "name": "American Electric Power Company",
+    "sector": "Utilities",
+    "price": 119.96,
+    "yield": 0.03117705901967323,
+    "ttm_dividend": 3.74,
+    "frequency": "Quarterly",
+    "last_div": 0.95,
+    "payments": [
+      {
+        "date": "2025-02-10",
+        "amount": 0.93
+      },
+      {
+        "date": "2025-05-09",
+        "amount": 0.93
+      },
+      {
+        "date": "2025-08-08",
+        "amount": 0.93
+      },
+      {
+        "date": "2025-11-10",
+        "amount": 0.95
+      }
+    ],
+    "currency": "USD"
+  },
+  "XEL": {
+    "ticker": "XEL",
+    "name": "Xcel Energy Inc.",
+    "sector": "Utilities",
+    "price": 75.61,
+    "yield": 0.030154741436317946,
+    "ttm_dividend": 2.28,
+    "frequency": "Quarterly",
+    "last_div": 0.57,
+    "payments": [
+      {
+        "date": "2025-03-14",
+        "amount": 0.57
+      },
+      {
+        "date": "2025-06-13",
+        "amount": 0.57
+      },
+      {
+        "date": "2025-09-15",
+        "amount": 0.57
+      },
+      {
+        "date": "2025-12-29",
+        "amount": 0.57
+      }
+    ],
+    "currency": "USD"
+  },
+  "SRE": {
+    "ticker": "SRE",
+    "name": "DBA Sempra",
+    "sector": "Utilities",
+    "price": 92.55,
+    "yield": 0.02787682333873582,
+    "ttm_dividend": 2.58,
+    "frequency": "Quarterly",
+    "last_div": 0.645,
+    "payments": [
+      {
+        "date": "2025-03-20",
+        "amount": 0.645
+      },
+      {
+        "date": "2025-06-26",
+        "amount": 0.645
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 0.645
+      },
+      {
+        "date": "2025-12-11",
+        "amount": 0.645
+      }
+    ],
+    "currency": "USD"
+  },
+  "ED": {
+    "ticker": "ED",
+    "name": "Consolidated Edison, Inc.",
+    "sector": "Utilities",
+    "price": 103.81,
+    "yield": 0.03275214333879202,
+    "ttm_dividend": 3.4,
+    "frequency": "Quarterly",
+    "last_div": 0.85,
+    "payments": [
+      {
+        "date": "2025-02-19",
+        "amount": 0.85
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 0.85
+      },
+      {
+        "date": "2025-08-13",
+        "amount": 0.85
+      },
+      {
+        "date": "2025-11-19",
+        "amount": 0.85
+      }
+    ],
+    "currency": "USD"
+  },
+  "EIX": {
+    "ticker": "EIX",
+    "name": "Edison International",
+    "sector": "Utilities",
+    "price": 62.39,
+    "yield": 0.053886840839878186,
+    "ttm_dividend": 3.362,
+    "frequency": "Quarterly",
+    "last_div": 0.878,
+    "payments": [
+      {
+        "date": "2025-04-07",
+        "amount": 0.828
+      },
+      {
+        "date": "2025-07-07",
+        "amount": 0.828
+      },
+      {
+        "date": "2025-10-07",
+        "amount": 0.828
+      },
+      {
+        "date": "2026-01-07",
+        "amount": 0.878
+      }
+    ],
+    "currency": "USD"
+  },
+  "AWK": {
+    "ticker": "AWK",
+    "name": "American Water Works Company, I",
+    "sector": "Utilities",
+    "price": 133.34,
+    "yield": 0.024366281685915703,
+    "ttm_dividend": 3.2489999999999997,
+    "frequency": "Quarterly",
+    "last_div": 0.828,
+    "payments": [
+      {
+        "date": "2025-02-07",
+        "amount": 0.765
+      },
+      {
+        "date": "2025-05-13",
+        "amount": 0.828
+      },
+      {
+        "date": "2025-08-12",
+        "amount": 0.828
+      },
+      {
+        "date": "2025-11-13",
+        "amount": 0.828
+      }
+    ],
+    "currency": "USD"
+  },
+  "PPL": {
+    "ticker": "PPL",
+    "name": "PPL Corporation",
+    "sector": "Utilities",
+    "price": 36.83,
+    "yield": 0.02964974205810481,
+    "ttm_dividend": 1.092,
+    "frequency": "Quarterly",
+    "last_div": 0.273,
+    "payments": [
+      {
+        "date": "2025-03-10",
+        "amount": 0.273
+      },
+      {
+        "date": "2025-06-10",
+        "amount": 0.273
+      },
+      {
+        "date": "2025-09-10",
+        "amount": 0.273
+      },
+      {
+        "date": "2025-12-10",
+        "amount": 0.273
+      }
+    ],
+    "currency": "USD"
+  },
+  "EXC": {
+    "ticker": "EXC",
+    "name": "Exelon Corporation",
+    "sector": "Utilities",
+    "price": 44.73,
+    "yield": 0.03577017661524704,
+    "ttm_dividend": 1.6,
+    "frequency": "Quarterly",
+    "last_div": 0.4,
+    "payments": [
+      {
+        "date": "2025-02-24",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-05-12",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-08-11",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-11-10",
+        "amount": 0.4
+      }
+    ],
+    "currency": "USD"
+  },
+  "T": {
+    "ticker": "T",
+    "name": "AT&T Inc.",
+    "sector": "Communication Services",
+    "price": 23.49,
+    "yield": 0.04733929331630482,
+    "ttm_dividend": 1.112,
+    "frequency": "Quarterly",
+    "last_div": 0.278,
+    "payments": [
+      {
+        "date": "2025-04-10",
+        "amount": 0.278
+      },
+      {
+        "date": "2025-07-10",
+        "amount": 0.278
+      },
+      {
+        "date": "2025-10-10",
+        "amount": 0.278
+      },
+      {
+        "date": "2026-01-12",
+        "amount": 0.278
+      }
+    ],
+    "currency": "USD"
+  },
+  "VZ": {
+    "ticker": "VZ",
+    "name": "Verizon Communications Inc.",
+    "sector": "Communication Services",
+    "price": 38.91,
+    "yield": 0.07031611410948344,
+    "ttm_dividend": 2.736,
+    "frequency": "Quarterly",
+    "last_div": 0.69,
+    "payments": [
+      {
+        "date": "2025-04-10",
+        "amount": 0.678
+      },
+      {
+        "date": "2025-07-10",
+        "amount": 0.678
+      },
+      {
+        "date": "2025-10-10",
+        "amount": 0.69
+      },
+      {
+        "date": "2026-01-12",
+        "amount": 0.69
+      }
+    ],
+    "currency": "USD"
+  },
+  "MCD": {
+    "ticker": "MCD",
+    "name": "McDonald's Corporation",
+    "sector": "Consumer Cyclical",
+    "price": 307.43,
+    "yield": 0.023322382330937128,
+    "ttm_dividend": 7.170000000000001,
+    "frequency": "Quarterly",
+    "last_div": 1.86,
+    "payments": [
+      {
+        "date": "2025-03-03",
+        "amount": 1.77
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 1.77
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 1.77
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 1.86
+      }
+    ],
+    "currency": "USD"
+  },
+  "HD": {
+    "ticker": "HD",
+    "name": "Home Depot, Inc. (The)",
+    "sector": "Consumer Cyclical",
+    "price": 380.17,
+    "yield": 0.024199700134150508,
+    "ttm_dividend": 9.2,
+    "frequency": "Quarterly",
+    "last_div": 2.3,
+    "payments": [
+      {
+        "date": "2025-03-13",
+        "amount": 2.3
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 2.3
+      },
+      {
+        "date": "2025-09-04",
+        "amount": 2.3
+      },
+      {
+        "date": "2025-12-04",
+        "amount": 2.3
+      }
+    ],
+    "currency": "USD"
+  },
+  "LOW": {
+    "ticker": "LOW",
+    "name": "Lowe's Companies, Inc.",
+    "sector": "Consumer Cyclical",
+    "price": 277.55,
+    "yield": 0.0169338857863448,
+    "ttm_dividend": 4.7,
+    "frequency": "Quarterly",
+    "last_div": 1.2,
+    "payments": [
+      {
+        "date": "2025-01-22",
+        "amount": 1.15
+      },
+      {
+        "date": "2025-04-23",
+        "amount": 1.15
+      },
+      {
+        "date": "2025-07-23",
+        "amount": 1.2
+      },
+      {
+        "date": "2025-10-22",
+        "amount": 1.2
+      }
+    ],
+    "currency": "USD"
+  },
+  "TGT": {
+    "ticker": "TGT",
+    "name": "Target Corporation",
+    "sector": "Consumer Defensive",
+    "price": 111.28,
+    "yield": 0.04061826024442847,
+    "ttm_dividend": 4.52,
+    "frequency": "Quarterly",
+    "last_div": 1.14,
+    "payments": [
+      {
+        "date": "2025-02-12",
+        "amount": 1.12
+      },
+      {
+        "date": "2025-05-14",
+        "amount": 1.12
+      },
+      {
+        "date": "2025-08-13",
+        "amount": 1.14
+      },
+      {
+        "date": "2025-11-12",
+        "amount": 1.14
+      }
+    ],
+    "currency": "USD"
+  },
+  "SBUX": {
+    "ticker": "SBUX",
+    "name": "Starbucks Corporation",
+    "sector": "Consumer Cyclical",
+    "price": 92.99,
+    "yield": 0.02634691902355092,
+    "ttm_dividend": 2.45,
+    "frequency": "Quarterly",
+    "last_div": 0.62,
+    "payments": [
+      {
+        "date": "2025-02-14",
+        "amount": 0.61
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 0.61
+      },
+      {
+        "date": "2025-08-15",
+        "amount": 0.61
+      },
+      {
+        "date": "2025-11-14",
+        "amount": 0.62
+      }
+    ],
+    "currency": "USD"
+  },
+  "NKE": {
+    "ticker": "NKE",
+    "name": "Nike, Inc.",
+    "sector": "Consumer Cyclical",
+    "price": 64.38,
+    "yield": 0.025007766387076736,
+    "ttm_dividend": 1.61,
+    "frequency": "Quarterly",
+    "last_div": 0.41,
+    "payments": [
+      {
+        "date": "2025-03-03",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-06-02",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 0.4
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 0.41
+      }
+    ],
+    "currency": "USD"
+  },
+  "LIN": {
+    "ticker": "LIN",
+    "name": "Linde plc",
+    "sector": "Basic Materials",
+    "price": 438.96,
+    "yield": 0.01366867140513942,
+    "ttm_dividend": 6.0,
+    "frequency": "Quarterly",
+    "last_div": 1.5,
+    "payments": [
+      {
+        "date": "2025-03-13",
+        "amount": 1.5
+      },
+      {
+        "date": "2025-06-04",
+        "amount": 1.5
+      },
+      {
+        "date": "2025-09-04",
+        "amount": 1.5
+      },
+      {
+        "date": "2025-12-03",
+        "amount": 1.5
+      }
+    ],
+    "currency": "USD"
+  },
+  "APD": {
+    "ticker": "APD",
+    "name": "Air Products and Chemicals, Inc",
+    "sector": "Basic Materials",
+    "price": 267.53,
+    "yield": 0.026763353642582144,
+    "ttm_dividend": 7.16,
+    "frequency": "Quarterly",
+    "last_div": 1.79,
+    "payments": [
+      {
+        "date": "2025-04-01",
+        "amount": 1.79
+      },
+      {
+        "date": "2025-07-01",
+        "amount": 1.79
+      },
+      {
+        "date": "2025-10-01",
+        "amount": 1.79
+      },
+      {
+        "date": "2026-01-02",
+        "amount": 1.79
+      }
+    ],
+    "currency": "USD"
+  },
+  "SHW": {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams Company (The)",
+    "sector": "Basic Materials",
+    "price": 357.83,
+    "yield": 0.008831009138417684,
+    "ttm_dividend": 3.16,
+    "frequency": "Quarterly",
+    "last_div": 0.79,
+    "payments": [
+      {
+        "date": "2025-03-03",
+        "amount": 0.79
+      },
+      {
+        "date": "2025-05-16",
+        "amount": 0.79
+      },
+      {
+        "date": "2025-08-15",
+        "amount": 0.79
+      },
+      {
+        "date": "2025-11-14",
+        "amount": 0.79
+      }
+    ],
+    "currency": "USD"
+  },
+  "NEM": {
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "sector": "Basic Materials",
+    "price": 114.12,
+    "yield": 0.008762705923589204,
+    "ttm_dividend": 1.0,
+    "frequency": "Quarterly",
+    "last_div": 0.25,
+    "payments": [
+      {
+        "date": "2025-03-04",
+        "amount": 0.25
+      },
+      {
+        "date": "2025-05-27",
+        "amount": 0.25
+      },
+      {
+        "date": "2025-09-04",
+        "amount": 0.25
+      },
+      {
+        "date": "2025-11-26",
+        "amount": 0.25
+      }
+    ],
+    "currency": "USD"
+  },
+  "MMM": {
+    "ticker": "MMM",
+    "name": "3M Company",
+    "sector": "Industrials",
+    "price": 167.8,
+    "yield": 0.01740166865315852,
+    "ttm_dividend": 2.92,
+    "frequency": "Quarterly",
+    "last_div": 0.73,
+    "payments": [
+      {
+        "date": "2025-02-14",
+        "amount": 0.73
+      },
+      {
+        "date": "2025-05-23",
+        "amount": 0.73
+      },
+      {
+        "date": "2025-08-25",
+        "amount": 0.73
+      },
+      {
+        "date": "2025-11-14",
+        "amount": 0.73
+      }
+    ],
+    "currency": "USD"
+  },
+  "_meta": {
+    "last_updated": "2026-01-17 23:25:54",
+    "total_tickers": 210
+  }
+}
